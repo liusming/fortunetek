@@ -1,0 +1,6 @@
+services:
+  smallads.route.subscriber:
+    class: Drupal\smallads\Routing\RouteSubscriber
+    arguments: ['@entity.manager']
+    tags:
+     - { name: event_subscriber }

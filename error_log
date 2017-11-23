@@ -1,0 +1,1018 @@
+[29-Aug-2017 15:19:13 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[29-Aug-2017 16:42:48 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[30-Aug-2017 01:31:45 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[30-Aug-2017 04:10:24 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[30-Aug-2017 12:35:50 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[30-Aug-2017 23:31:50 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[31-Aug-2017 06:20:31 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[31-Aug-2017 23:33:58 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[01-Sep-2017 03:40:44 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[01-Sep-2017 08:27:13 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[01-Sep-2017 09:00:34 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[01-Sep-2017 09:33:52 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[01-Sep-2017 09:44:54 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[02-Sep-2017 02:06:07 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[02-Sep-2017 04:00:37 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[02-Sep-2017 11:50:50 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[02-Sep-2017 11:51:02 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[02-Sep-2017 11:51:12 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[02-Sep-2017 18:06:26 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[04-Sep-2017 15:04:53 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[04-Sep-2017 16:54:37 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[04-Sep-2017 16:54:58 Asia/Taipei] PDOException: SQLSTATE[42000] [1203] User digithou_digit already has more than 'max_user_connections' active connections in /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php on line 79 #0 /home/digithou/public_html/core/lib/Drupal/Core/Database/Driver/mysql/Connection.php(142): PDO->__construct('mysql:host=loca...', 'digithou_digit', '@digit60180618', Array)
+#1 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(376): Drupal\Core\Database\Driver\mysql\Connection::open(Array)
+#2 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(166): Drupal\Core\Database\Database::openConnection('default', 'default')
+#3 [internal function]: Drupal\Core\Database\Database::getConnection('default')
+#4 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(79): call_user_func_array('Drupal\\Core\\Dat...', Array)
+#5 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'database')
+#6 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(264): Drupal\Component\DependencyInjection\Container->get('database', 1)
+#7 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(62): Drupal\Component\DependencyInjection\PhpArrayContainer->resolveServicesAndParameters(Array)
+#8 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'cache.container')
+#9 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(508): Drupal\Component\DependencyInjection\Container->get('cache.container')
+#10 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(860): Drupal\Core\DrupalKernel->getCachedContainerDefinition()
+#11 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(461): Drupal\Core\DrupalKernel->initializeContainer()
+#12 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(651): Drupal\Core\DrupalKernel->boot()
+#13 /home/digithou/public_html/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#14 {main}
+[04-Sep-2017 16:54:58 Asia/Taipei] PDOException: SQLSTATE[42000] [1203] User digithou_digit already has more than 'max_user_connections' active connections in /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php on line 79 #0 /home/digithou/public_html/core/lib/Drupal/Core/Database/Driver/mysql/Connection.php(142): PDO->__construct('mysql:host=loca...', 'digithou_digit', '@digit60180618', Array)
+#1 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(376): Drupal\Core\Database\Driver\mysql\Connection::open(Array)
+#2 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(166): Drupal\Core\Database\Database::openConnection('default', 'default')
+#3 [internal function]: Drupal\Core\Database\Database::getConnection('default')
+#4 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(79): call_user_func_array('Drupal\\Core\\Dat...', Array)
+#5 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'database')
+#6 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(264): Drupal\Component\DependencyInjection\Container->get('database', 1)
+#7 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(62): Drupal\Component\DependencyInjection\PhpArrayContainer->resolveServicesAndParameters(Array)
+#8 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'cache.container')
+#9 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(508): Drupal\Component\DependencyInjection\Container->get('cache.container')
+#10 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(860): Drupal\Core\DrupalKernel->getCachedContainerDefinition()
+#11 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(461): Drupal\Core\DrupalKernel->initializeContainer()
+#12 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(651): Drupal\Core\DrupalKernel->boot()
+#13 /home/digithou/public_html/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#14 {main}
+[04-Sep-2017 16:54:58 Asia/Taipei] PDOException: SQLSTATE[42000] [1203] User digithou_digit already has more than 'max_user_connections' active connections in /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php on line 79 #0 /home/digithou/public_html/core/lib/Drupal/Core/Database/Driver/mysql/Connection.php(142): PDO->__construct('mysql:host=loca...', 'digithou_digit', '@digit60180618', Array)
+#1 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(376): Drupal\Core\Database\Driver\mysql\Connection::open(Array)
+#2 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(166): Drupal\Core\Database\Database::openConnection('default', 'default')
+#3 [internal function]: Drupal\Core\Database\Database::getConnection('default')
+#4 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(79): call_user_func_array('Drupal\\Core\\Dat...', Array)
+#5 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'database')
+#6 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(264): Drupal\Component\DependencyInjection\Container->get('database', 1)
+#7 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(62): Drupal\Component\DependencyInjection\PhpArrayContainer->resolveServicesAndParameters(Array)
+#8 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'cache.container')
+#9 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(508): Drupal\Component\DependencyInjection\Container->get('cache.container')
+#10 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(860): Drupal\Core\DrupalKernel->getCachedContainerDefinition()
+#11 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(461): Drupal\Core\DrupalKernel->initializeContainer()
+#12 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(651): Drupal\Core\DrupalKernel->boot()
+#13 /home/digithou/public_html/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#14 {main}
+[04-Sep-2017 16:54:58 Asia/Taipei] PDOException: SQLSTATE[42000] [1203] User digithou_digit already has more than 'max_user_connections' active connections in /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php on line 79 #0 /home/digithou/public_html/core/lib/Drupal/Core/Database/Driver/mysql/Connection.php(142): PDO->__construct('mysql:host=loca...', 'digithou_digit', '@digit60180618', Array)
+#1 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(376): Drupal\Core\Database\Driver\mysql\Connection::open(Array)
+#2 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(166): Drupal\Core\Database\Database::openConnection('default', 'default')
+#3 [internal function]: Drupal\Core\Database\Database::getConnection('default')
+#4 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(79): call_user_func_array('Drupal\\Core\\Dat...', Array)
+#5 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'database')
+#6 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(264): Drupal\Component\DependencyInjection\Container->get('database', 1)
+#7 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(62): Drupal\Component\DependencyInjection\PhpArrayContainer->resolveServicesAndParameters(Array)
+#8 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'cache.container')
+#9 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(508): Drupal\Component\DependencyInjection\Container->get('cache.container')
+#10 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(860): Drupal\Core\DrupalKernel->getCachedContainerDefinition()
+#11 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(461): Drupal\Core\DrupalKernel->initializeContainer()
+#12 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(651): Drupal\Core\DrupalKernel->boot()
+#13 /home/digithou/public_html/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#14 {main}
+[04-Sep-2017 16:54:58 Asia/Taipei] PDOException: SQLSTATE[42000] [1203] User digithou_digit already has more than 'max_user_connections' active connections in /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php on line 79 #0 /home/digithou/public_html/core/lib/Drupal/Core/Database/Driver/mysql/Connection.php(142): PDO->__construct('mysql:host=loca...', 'digithou_digit', '@digit60180618', Array)
+#1 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(376): Drupal\Core\Database\Driver\mysql\Connection::open(Array)
+#2 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(166): Drupal\Core\Database\Database::openConnection('default', 'default')
+#3 [internal function]: Drupal\Core\Database\Database::getConnection('default')
+#4 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(79): call_user_func_array('Drupal\\Core\\Dat...', Array)
+#5 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'database')
+#6 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(264): Drupal\Component\DependencyInjection\Container->get('database', 1)
+#7 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(62): Drupal\Component\DependencyInjection\PhpArrayContainer->resolveServicesAndParameters(Array)
+#8 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'cache.container')
+#9 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(508): Drupal\Component\DependencyInjection\Container->get('cache.container')
+#10 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(860): Drupal\Core\DrupalKernel->getCachedContainerDefinition()
+#11 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(461): Drupal\Core\DrupalKernel->initializeContainer()
+#12 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(651): Drupal\Core\DrupalKernel->boot()
+#13 /home/digithou/public_html/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#14 {main}
+[04-Sep-2017 16:54:58 Asia/Taipei] PDOException: SQLSTATE[42000] [1203] User digithou_digit already has more than 'max_user_connections' active connections in /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php on line 79 #0 /home/digithou/public_html/core/lib/Drupal/Core/Database/Driver/mysql/Connection.php(142): PDO->__construct('mysql:host=loca...', 'digithou_digit', '@digit60180618', Array)
+#1 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(376): Drupal\Core\Database\Driver\mysql\Connection::open(Array)
+#2 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(166): Drupal\Core\Database\Database::openConnection('default', 'default')
+#3 [internal function]: Drupal\Core\Database\Database::getConnection('default')
+#4 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(79): call_user_func_array('Drupal\\Core\\Dat...', Array)
+#5 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'database')
+#6 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(264): Drupal\Component\DependencyInjection\Container->get('database', 1)
+#7 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(62): Drupal\Component\DependencyInjection\PhpArrayContainer->resolveServicesAndParameters(Array)
+#8 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'cache.container')
+#9 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(508): Drupal\Component\DependencyInjection\Container->get('cache.container')
+#10 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(860): Drupal\Core\DrupalKernel->getCachedContainerDefinition()
+#11 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(461): Drupal\Core\DrupalKernel->initializeContainer()
+#12 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(651): Drupal\Core\DrupalKernel->boot()
+#13 /home/digithou/public_html/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#14 {main}
+[04-Sep-2017 18:16:07 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[05-Sep-2017 00:35:30 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[05-Sep-2017 02:09:37 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[07-Sep-2017 01:27:24 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[07-Sep-2017 09:37:48 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[07-Sep-2017 09:51:14 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[07-Sep-2017 09:51:18 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[07-Sep-2017 09:51:19 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[07-Sep-2017 09:51:20 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[07-Sep-2017 09:51:24 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[07-Sep-2017 20:58:47 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[07-Sep-2017 20:59:12 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[07-Sep-2017 20:59:38 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[07-Sep-2017 21:00:04 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[08-Sep-2017 03:37:47 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[08-Sep-2017 03:38:16 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[08-Sep-2017 03:39:17 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[08-Sep-2017 03:39:46 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[08-Sep-2017 04:05:42 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[08-Sep-2017 04:05:52 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[08-Sep-2017 04:06:02 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[08-Sep-2017 07:32:17 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[08-Sep-2017 07:33:17 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[08-Sep-2017 07:33:46 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[08-Sep-2017 09:18:47 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[08-Sep-2017 09:21:47 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[08-Sep-2017 09:22:47 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[08-Sep-2017 15:46:52 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[08-Sep-2017 15:47:29 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[08-Sep-2017 15:52:25 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[08-Sep-2017 19:09:58 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[08-Sep-2017 21:30:11 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[08-Sep-2017 21:57:44 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[09-Sep-2017 09:35:16 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[09-Sep-2017 09:38:37 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[09-Sep-2017 22:33:34 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[10-Sep-2017 02:09:14 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[10-Sep-2017 04:07:48 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[10-Sep-2017 04:07:54 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[10-Sep-2017 04:08:08 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[10-Sep-2017 04:08:13 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[10-Sep-2017 04:45:02 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[10-Sep-2017 10:13:50 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[11-Sep-2017 17:40:53 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[12-Sep-2017 01:32:37 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[12-Sep-2017 23:51:23 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[13-Sep-2017 13:10:55 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[13-Sep-2017 16:14:26 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[13-Sep-2017 16:14:36 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[13-Sep-2017 16:14:45 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[14-Sep-2017 03:59:43 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[14-Sep-2017 08:12:21 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[18-Sep-2017 07:14:25 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[19-Sep-2017 19:05:55 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[19-Sep-2017 19:06:05 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[19-Sep-2017 19:06:15 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[20-Sep-2017 14:27:54 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[20-Sep-2017 14:27:55 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[20-Sep-2017 14:27:57 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[20-Sep-2017 14:27:57 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[20-Sep-2017 14:27:57 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[20-Sep-2017 14:27:57 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[20-Sep-2017 14:27:58 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[20-Sep-2017 14:27:58 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[20-Sep-2017 14:27:59 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[21-Sep-2017 13:48:35 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[21-Sep-2017 13:48:39 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[21-Sep-2017 13:48:40 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[21-Sep-2017 13:48:40 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[21-Sep-2017 13:48:44 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[22-Sep-2017 00:32:15 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[22-Sep-2017 09:44:07 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[23-Sep-2017 08:45:03 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[24-Sep-2017 06:12:16 Asia/Taipei] PDOException: SQLSTATE[HY000] [2013] Lost connection to MySQL server at 'waiting for initial communication packet', system error: 110 in /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php on line 79 #0 /home/digithou/public_html/core/lib/Drupal/Core/Database/Driver/mysql/Connection.php(142): PDO->__construct('mysql:host=loca...', 'digithou_digit', '@digit60180618', Array)
+#1 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(376): Drupal\Core\Database\Driver\mysql\Connection::open(Array)
+#2 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(166): Drupal\Core\Database\Database::openConnection('default', 'default')
+#3 [internal function]: Drupal\Core\Database\Database::getConnection('default')
+#4 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(79): call_user_func_array('Drupal\\Core\\Dat...', Array)
+#5 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'database')
+#6 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(264): Drupal\Component\DependencyInjection\Container->get('database', 1)
+#7 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(62): Drupal\Component\DependencyInjection\PhpArrayContainer->resolveServicesAndParameters(Array)
+#8 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'cache.container')
+#9 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(508): Drupal\Component\DependencyInjection\Container->get('cache.container')
+#10 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(860): Drupal\Core\DrupalKernel->getCachedContainerDefinition()
+#11 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(461): Drupal\Core\DrupalKernel->initializeContainer()
+#12 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(651): Drupal\Core\DrupalKernel->boot()
+#13 /home/digithou/public_html/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#14 {main}
+[24-Sep-2017 06:13:02 Asia/Taipei] PDOException: SQLSTATE[HY000] [2013] Lost connection to MySQL server at 'waiting for initial communication packet', system error: 110 in /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php on line 79 #0 /home/digithou/public_html/core/lib/Drupal/Core/Database/Driver/mysql/Connection.php(142): PDO->__construct('mysql:host=loca...', 'digithou_digit', '@digit60180618', Array)
+#1 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(376): Drupal\Core\Database\Driver\mysql\Connection::open(Array)
+#2 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(166): Drupal\Core\Database\Database::openConnection('default', 'default')
+#3 [internal function]: Drupal\Core\Database\Database::getConnection('default')
+#4 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(79): call_user_func_array('Drupal\\Core\\Dat...', Array)
+#5 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'database')
+#6 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(264): Drupal\Component\DependencyInjection\Container->get('database', 1)
+#7 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(62): Drupal\Component\DependencyInjection\PhpArrayContainer->resolveServicesAndParameters(Array)
+#8 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'cache.container')
+#9 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(508): Drupal\Component\DependencyInjection\Container->get('cache.container')
+#10 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(860): Drupal\Core\DrupalKernel->getCachedContainerDefinition()
+#11 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(461): Drupal\Core\DrupalKernel->initializeContainer()
+#12 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(651): Drupal\Core\DrupalKernel->boot()
+#13 /home/digithou/public_html/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#14 {main}
+[24-Sep-2017 06:13:09 Asia/Taipei] PDOException: SQLSTATE[HY000] [2013] Lost connection to MySQL server at 'waiting for initial communication packet', system error: 110 in /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php on line 79 #0 /home/digithou/public_html/core/lib/Drupal/Core/Database/Driver/mysql/Connection.php(142): PDO->__construct('mysql:host=loca...', 'digithou_digit', '@digit60180618', Array)
+#1 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(376): Drupal\Core\Database\Driver\mysql\Connection::open(Array)
+#2 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(166): Drupal\Core\Database\Database::openConnection('default', 'default')
+#3 [internal function]: Drupal\Core\Database\Database::getConnection('default')
+#4 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(79): call_user_func_array('Drupal\\Core\\Dat...', Array)
+#5 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'database')
+#6 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(264): Drupal\Component\DependencyInjection\Container->get('database', 1)
+#7 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(62): Drupal\Component\DependencyInjection\PhpArrayContainer->resolveServicesAndParameters(Array)
+#8 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'cache.container')
+#9 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(508): Drupal\Component\DependencyInjection\Container->get('cache.container')
+#10 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(860): Drupal\Core\DrupalKernel->getCachedContainerDefinition()
+#11 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(461): Drupal\Core\DrupalKernel->initializeContainer()
+#12 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(651): Drupal\Core\DrupalKernel->boot()
+#13 /home/digithou/public_html/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#14 {main}
+[24-Sep-2017 06:13:38 Asia/Taipei] PDOException: SQLSTATE[HY000] [2013] Lost connection to MySQL server at 'waiting for initial communication packet', system error: 110 in /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php on line 79 #0 /home/digithou/public_html/core/lib/Drupal/Core/Database/Driver/mysql/Connection.php(142): PDO->__construct('mysql:host=loca...', 'digithou_digit', '@digit60180618', Array)
+#1 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(376): Drupal\Core\Database\Driver\mysql\Connection::open(Array)
+#2 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(166): Drupal\Core\Database\Database::openConnection('default', 'default')
+#3 [internal function]: Drupal\Core\Database\Database::getConnection('default')
+#4 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(79): call_user_func_array('Drupal\\Core\\Dat...', Array)
+#5 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'database')
+#6 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(264): Drupal\Component\DependencyInjection\Container->get('database', 1)
+#7 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(62): Drupal\Component\DependencyInjection\PhpArrayContainer->resolveServicesAndParameters(Array)
+#8 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'cache.container')
+#9 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(508): Drupal\Component\DependencyInjection\Container->get('cache.container')
+#10 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(860): Drupal\Core\DrupalKernel->getCachedContainerDefinition()
+#11 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(461): Drupal\Core\DrupalKernel->initializeContainer()
+#12 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(651): Drupal\Core\DrupalKernel->boot()
+#13 /home/digithou/public_html/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#14 {main}
+[24-Sep-2017 06:14:01 Asia/Taipei] PDOException: SQLSTATE[HY000] [2013] Lost connection to MySQL server at 'waiting for initial communication packet', system error: 110 in /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php on line 79 #0 /home/digithou/public_html/core/lib/Drupal/Core/Database/Driver/mysql/Connection.php(142): PDO->__construct('mysql:host=loca...', 'digithou_digit', '@digit60180618', Array)
+#1 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(376): Drupal\Core\Database\Driver\mysql\Connection::open(Array)
+#2 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(166): Drupal\Core\Database\Database::openConnection('default', 'default')
+#3 [internal function]: Drupal\Core\Database\Database::getConnection('default')
+#4 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(79): call_user_func_array('Drupal\\Core\\Dat...', Array)
+#5 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'database')
+#6 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(264): Drupal\Component\DependencyInjection\Container->get('database', 1)
+#7 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(62): Drupal\Component\DependencyInjection\PhpArrayContainer->resolveServicesAndParameters(Array)
+#8 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'cache.container')
+#9 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(508): Drupal\Component\DependencyInjection\Container->get('cache.container')
+#10 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(860): Drupal\Core\DrupalKernel->getCachedContainerDefinition()
+#11 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(461): Drupal\Core\DrupalKernel->initializeContainer()
+#12 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(651): Drupal\Core\DrupalKernel->boot()
+#13 /home/digithou/public_html/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#14 {main}
+[24-Sep-2017 06:14:12 Asia/Taipei] PDOException: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php on line 79 #0 /home/digithou/public_html/core/lib/Drupal/Core/Database/Driver/mysql/Connection.php(142): PDO->__construct('mysql:host=loca...', 'digithou_digit', '@digit60180618', Array)
+#1 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(376): Drupal\Core\Database\Driver\mysql\Connection::open(Array)
+#2 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(166): Drupal\Core\Database\Database::openConnection('default', 'default')
+#3 [internal function]: Drupal\Core\Database\Database::getConnection('default')
+#4 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(79): call_user_func_array('Drupal\\Core\\Dat...', Array)
+#5 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'database')
+#6 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(264): Drupal\Component\DependencyInjection\Container->get('database', 1)
+#7 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(62): Drupal\Component\DependencyInjection\PhpArrayContainer->resolveServicesAndParameters(Array)
+#8 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'cache.container')
+#9 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(508): Drupal\Component\DependencyInjection\Container->get('cache.container')
+#10 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(860): Drupal\Core\DrupalKernel->getCachedContainerDefinition()
+#11 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(461): Drupal\Core\DrupalKernel->initializeContainer()
+#12 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(651): Drupal\Core\DrupalKernel->boot()
+#13 /home/digithou/public_html/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#14 {main}
+[24-Sep-2017 06:15:00 Asia/Taipei] PDOException: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php on line 79 #0 /home/digithou/public_html/core/lib/Drupal/Core/Database/Driver/mysql/Connection.php(142): PDO->__construct('mysql:host=loca...', 'digithou_digit', '@digit60180618', Array)
+#1 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(376): Drupal\Core\Database\Driver\mysql\Connection::open(Array)
+#2 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(166): Drupal\Core\Database\Database::openConnection('default', 'default')
+#3 [internal function]: Drupal\Core\Database\Database::getConnection('default')
+#4 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(79): call_user_func_array('Drupal\\Core\\Dat...', Array)
+#5 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'database')
+#6 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(264): Drupal\Component\DependencyInjection\Container->get('database', 1)
+#7 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(62): Drupal\Component\DependencyInjection\PhpArrayContainer->resolveServicesAndParameters(Array)
+#8 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'cache.container')
+#9 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(508): Drupal\Component\DependencyInjection\Container->get('cache.container')
+#10 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(860): Drupal\Core\DrupalKernel->getCachedContainerDefinition()
+#11 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(461): Drupal\Core\DrupalKernel->initializeContainer()
+#12 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(651): Drupal\Core\DrupalKernel->boot()
+#13 /home/digithou/public_html/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#14 {main}
+[24-Sep-2017 06:15:14 Asia/Taipei] PDOException: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php on line 79 #0 /home/digithou/public_html/core/lib/Drupal/Core/Database/Driver/mysql/Connection.php(142): PDO->__construct('mysql:host=loca...', 'digithou_digit', '@digit60180618', Array)
+#1 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(376): Drupal\Core\Database\Driver\mysql\Connection::open(Array)
+#2 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(166): Drupal\Core\Database\Database::openConnection('default', 'default')
+#3 [internal function]: Drupal\Core\Database\Database::getConnection('default')
+#4 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(79): call_user_func_array('Drupal\\Core\\Dat...', Array)
+#5 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'database')
+#6 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(264): Drupal\Component\DependencyInjection\Container->get('database', 1)
+#7 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(62): Drupal\Component\DependencyInjection\PhpArrayContainer->resolveServicesAndParameters(Array)
+#8 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'cache.container')
+#9 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(508): Drupal\Component\DependencyInjection\Container->get('cache.container')
+#10 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(860): Drupal\Core\DrupalKernel->getCachedContainerDefinition()
+#11 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(461): Drupal\Core\DrupalKernel->initializeContainer()
+#12 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(651): Drupal\Core\DrupalKernel->boot()
+#13 /home/digithou/public_html/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#14 {main}
+[24-Sep-2017 06:15:37 Asia/Taipei] PDOException: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php on line 79 #0 /home/digithou/public_html/core/lib/Drupal/Core/Database/Driver/mysql/Connection.php(142): PDO->__construct('mysql:host=loca...', 'digithou_digit', '@digit60180618', Array)
+#1 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(376): Drupal\Core\Database\Driver\mysql\Connection::open(Array)
+#2 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(166): Drupal\Core\Database\Database::openConnection('default', 'default')
+#3 [internal function]: Drupal\Core\Database\Database::getConnection('default')
+#4 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(79): call_user_func_array('Drupal\\Core\\Dat...', Array)
+#5 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'database')
+#6 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(264): Drupal\Component\DependencyInjection\Container->get('database', 1)
+#7 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(62): Drupal\Component\DependencyInjection\PhpArrayContainer->resolveServicesAndParameters(Array)
+#8 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'cache.container')
+#9 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(508): Drupal\Component\DependencyInjection\Container->get('cache.container')
+#10 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(860): Drupal\Core\DrupalKernel->getCachedContainerDefinition()
+#11 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(461): Drupal\Core\DrupalKernel->initializeContainer()
+#12 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(651): Drupal\Core\DrupalKernel->boot()
+#13 /home/digithou/public_html/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#14 {main}
+[24-Sep-2017 06:15:42 Asia/Taipei] PDOException: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php on line 79 #0 /home/digithou/public_html/core/lib/Drupal/Core/Database/Driver/mysql/Connection.php(142): PDO->__construct('mysql:host=loca...', 'digithou_digit', '@digit60180618', Array)
+#1 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(376): Drupal\Core\Database\Driver\mysql\Connection::open(Array)
+#2 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(166): Drupal\Core\Database\Database::openConnection('default', 'default')
+#3 [internal function]: Drupal\Core\Database\Database::getConnection('default')
+#4 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(79): call_user_func_array('Drupal\\Core\\Dat...', Array)
+#5 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'database')
+#6 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(264): Drupal\Component\DependencyInjection\Container->get('database', 1)
+#7 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(62): Drupal\Component\DependencyInjection\PhpArrayContainer->resolveServicesAndParameters(Array)
+#8 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'cache.container')
+#9 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(508): Drupal\Component\DependencyInjection\Container->get('cache.container')
+#10 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(860): Drupal\Core\DrupalKernel->getCachedContainerDefinition()
+#11 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(461): Drupal\Core\DrupalKernel->initializeContainer()
+#12 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(651): Drupal\Core\DrupalKernel->boot()
+#13 /home/digithou/public_html/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#14 {main}
+[24-Sep-2017 06:15:45 Asia/Taipei] PDOException: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php on line 79 #0 /home/digithou/public_html/core/lib/Drupal/Core/Database/Driver/mysql/Connection.php(142): PDO->__construct('mysql:host=loca...', 'digithou_digit', '@digit60180618', Array)
+#1 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(376): Drupal\Core\Database\Driver\mysql\Connection::open(Array)
+#2 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(166): Drupal\Core\Database\Database::openConnection('default', 'default')
+#3 [internal function]: Drupal\Core\Database\Database::getConnection('default')
+#4 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(79): call_user_func_array('Drupal\\Core\\Dat...', Array)
+#5 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'database')
+#6 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(264): Drupal\Component\DependencyInjection\Container->get('database', 1)
+#7 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(62): Drupal\Component\DependencyInjection\PhpArrayContainer->resolveServicesAndParameters(Array)
+#8 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'cache.container')
+#9 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(508): Drupal\Component\DependencyInjection\Container->get('cache.container')
+#10 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(860): Drupal\Core\DrupalKernel->getCachedContainerDefinition()
+#11 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(461): Drupal\Core\DrupalKernel->initializeContainer()
+#12 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(651): Drupal\Core\DrupalKernel->boot()
+#13 /home/digithou/public_html/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#14 {main}
+[24-Sep-2017 06:16:00 Asia/Taipei] PDOException: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php on line 79 #0 /home/digithou/public_html/core/lib/Drupal/Core/Database/Driver/mysql/Connection.php(142): PDO->__construct('mysql:host=loca...', 'digithou_digit', '@digit60180618', Array)
+#1 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(376): Drupal\Core\Database\Driver\mysql\Connection::open(Array)
+#2 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(166): Drupal\Core\Database\Database::openConnection('default', 'default')
+#3 [internal function]: Drupal\Core\Database\Database::getConnection('default')
+#4 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(79): call_user_func_array('Drupal\\Core\\Dat...', Array)
+#5 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'database')
+#6 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(264): Drupal\Component\DependencyInjection\Container->get('database', 1)
+#7 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(62): Drupal\Component\DependencyInjection\PhpArrayContainer->resolveServicesAndParameters(Array)
+#8 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'cache.container')
+#9 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(508): Drupal\Component\DependencyInjection\Container->get('cache.container')
+#10 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(860): Drupal\Core\DrupalKernel->getCachedContainerDefinition()
+#11 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(461): Drupal\Core\DrupalKernel->initializeContainer()
+#12 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(651): Drupal\Core\DrupalKernel->boot()
+#13 /home/digithou/public_html/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#14 {main}
+[24-Sep-2017 06:16:00 Asia/Taipei] PDOException: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php on line 79 #0 /home/digithou/public_html/core/lib/Drupal/Core/Database/Driver/mysql/Connection.php(142): PDO->__construct('mysql:host=loca...', 'digithou_digit', '@digit60180618', Array)
+#1 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(376): Drupal\Core\Database\Driver\mysql\Connection::open(Array)
+#2 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(166): Drupal\Core\Database\Database::openConnection('default', 'default')
+#3 [internal function]: Drupal\Core\Database\Database::getConnection('default')
+#4 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(79): call_user_func_array('Drupal\\Core\\Dat...', Array)
+#5 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'database')
+#6 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(264): Drupal\Component\DependencyInjection\Container->get('database', 1)
+#7 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(62): Drupal\Component\DependencyInjection\PhpArrayContainer->resolveServicesAndParameters(Array)
+#8 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'cache.container')
+#9 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(508): Drupal\Component\DependencyInjection\Container->get('cache.container')
+#10 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(860): Drupal\Core\DrupalKernel->getCachedContainerDefinition()
+#11 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(461): Drupal\Core\DrupalKernel->initializeContainer()
+#12 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(651): Drupal\Core\DrupalKernel->boot()
+#13 /home/digithou/public_html/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#14 {main}
+[24-Sep-2017 06:16:03 Asia/Taipei] PDOException: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php on line 79 #0 /home/digithou/public_html/core/lib/Drupal/Core/Database/Driver/mysql/Connection.php(142): PDO->__construct('mysql:host=loca...', 'digithou_digit', '@digit60180618', Array)
+#1 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(376): Drupal\Core\Database\Driver\mysql\Connection::open(Array)
+#2 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(166): Drupal\Core\Database\Database::openConnection('default', 'default')
+#3 [internal function]: Drupal\Core\Database\Database::getConnection('default')
+#4 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(79): call_user_func_array('Drupal\\Core\\Dat...', Array)
+#5 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'database')
+#6 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(264): Drupal\Component\DependencyInjection\Container->get('database', 1)
+#7 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(62): Drupal\Component\DependencyInjection\PhpArrayContainer->resolveServicesAndParameters(Array)
+#8 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'cache.container')
+#9 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(508): Drupal\Component\DependencyInjection\Container->get('cache.container')
+#10 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(860): Drupal\Core\DrupalKernel->getCachedContainerDefinition()
+#11 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(461): Drupal\Core\DrupalKernel->initializeContainer()
+#12 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(651): Drupal\Core\DrupalKernel->boot()
+#13 /home/digithou/public_html/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#14 {main}
+[24-Sep-2017 06:16:09 Asia/Taipei] PDOException: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php on line 79 #0 /home/digithou/public_html/core/lib/Drupal/Core/Database/Driver/mysql/Connection.php(142): PDO->__construct('mysql:host=loca...', 'digithou_digit', '@digit60180618', Array)
+#1 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(376): Drupal\Core\Database\Driver\mysql\Connection::open(Array)
+#2 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(166): Drupal\Core\Database\Database::openConnection('default', 'default')
+#3 [internal function]: Drupal\Core\Database\Database::getConnection('default')
+#4 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(79): call_user_func_array('Drupal\\Core\\Dat...', Array)
+#5 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'database')
+#6 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(264): Drupal\Component\DependencyInjection\Container->get('database', 1)
+#7 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(62): Drupal\Component\DependencyInjection\PhpArrayContainer->resolveServicesAndParameters(Array)
+#8 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'cache.container')
+#9 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(508): Drupal\Component\DependencyInjection\Container->get('cache.container')
+#10 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(860): Drupal\Core\DrupalKernel->getCachedContainerDefinition()
+#11 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(461): Drupal\Core\DrupalKernel->initializeContainer()
+#12 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(651): Drupal\Core\DrupalKernel->boot()
+#13 /home/digithou/public_html/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#14 {main}
+[24-Sep-2017 06:16:20 Asia/Taipei] PDOException: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php on line 79 #0 /home/digithou/public_html/core/lib/Drupal/Core/Database/Driver/mysql/Connection.php(142): PDO->__construct('mysql:host=loca...', 'digithou_digit', '@digit60180618', Array)
+#1 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(376): Drupal\Core\Database\Driver\mysql\Connection::open(Array)
+#2 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(166): Drupal\Core\Database\Database::openConnection('default', 'default')
+#3 [internal function]: Drupal\Core\Database\Database::getConnection('default')
+#4 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(79): call_user_func_array('Drupal\\Core\\Dat...', Array)
+#5 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'database')
+#6 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(264): Drupal\Component\DependencyInjection\Container->get('database', 1)
+#7 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(62): Drupal\Component\DependencyInjection\PhpArrayContainer->resolveServicesAndParameters(Array)
+#8 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'cache.container')
+#9 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(508): Drupal\Component\DependencyInjection\Container->get('cache.container')
+#10 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(860): Drupal\Core\DrupalKernel->getCachedContainerDefinition()
+#11 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(461): Drupal\Core\DrupalKernel->initializeContainer()
+#12 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(651): Drupal\Core\DrupalKernel->boot()
+#13 /home/digithou/public_html/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#14 {main}
+[24-Sep-2017 06:16:29 Asia/Taipei] PDOException: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php on line 79 #0 /home/digithou/public_html/core/lib/Drupal/Core/Database/Driver/mysql/Connection.php(142): PDO->__construct('mysql:host=loca...', 'digithou_digit', '@digit60180618', Array)
+#1 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(376): Drupal\Core\Database\Driver\mysql\Connection::open(Array)
+#2 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(166): Drupal\Core\Database\Database::openConnection('default', 'default')
+#3 [internal function]: Drupal\Core\Database\Database::getConnection('default')
+#4 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(79): call_user_func_array('Drupal\\Core\\Dat...', Array)
+#5 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'database')
+#6 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(264): Drupal\Component\DependencyInjection\Container->get('database', 1)
+#7 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(62): Drupal\Component\DependencyInjection\PhpArrayContainer->resolveServicesAndParameters(Array)
+#8 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'cache.container')
+#9 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(508): Drupal\Component\DependencyInjection\Container->get('cache.container')
+#10 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(860): Drupal\Core\DrupalKernel->getCachedContainerDefinition()
+#11 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(461): Drupal\Core\DrupalKernel->initializeContainer()
+#12 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(651): Drupal\Core\DrupalKernel->boot()
+#13 /home/digithou/public_html/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#14 {main}
+[24-Sep-2017 06:16:57 Asia/Taipei] PDOException: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php on line 79 #0 /home/digithou/public_html/core/lib/Drupal/Core/Database/Driver/mysql/Connection.php(142): PDO->__construct('mysql:host=loca...', 'digithou_digit', '@digit60180618', Array)
+#1 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(376): Drupal\Core\Database\Driver\mysql\Connection::open(Array)
+#2 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(166): Drupal\Core\Database\Database::openConnection('default', 'default')
+#3 [internal function]: Drupal\Core\Database\Database::getConnection('default')
+#4 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(79): call_user_func_array('Drupal\\Core\\Dat...', Array)
+#5 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'database')
+#6 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(264): Drupal\Component\DependencyInjection\Container->get('database', 1)
+#7 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(62): Drupal\Component\DependencyInjection\PhpArrayContainer->resolveServicesAndParameters(Array)
+#8 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'cache.container')
+#9 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(508): Drupal\Component\DependencyInjection\Container->get('cache.container')
+#10 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(860): Drupal\Core\DrupalKernel->getCachedContainerDefinition()
+#11 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(461): Drupal\Core\DrupalKernel->initializeContainer()
+#12 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(651): Drupal\Core\DrupalKernel->boot()
+#13 /home/digithou/public_html/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#14 {main}
+[24-Sep-2017 06:17:04 Asia/Taipei] PDOException: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php on line 79 #0 /home/digithou/public_html/core/lib/Drupal/Core/Database/Driver/mysql/Connection.php(142): PDO->__construct('mysql:host=loca...', 'digithou_digit', '@digit60180618', Array)
+#1 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(376): Drupal\Core\Database\Driver\mysql\Connection::open(Array)
+#2 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(166): Drupal\Core\Database\Database::openConnection('default', 'default')
+#3 [internal function]: Drupal\Core\Database\Database::getConnection('default')
+#4 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(79): call_user_func_array('Drupal\\Core\\Dat...', Array)
+#5 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'database')
+#6 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(264): Drupal\Component\DependencyInjection\Container->get('database', 1)
+#7 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(62): Drupal\Component\DependencyInjection\PhpArrayContainer->resolveServicesAndParameters(Array)
+#8 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'cache.container')
+#9 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(508): Drupal\Component\DependencyInjection\Container->get('cache.container')
+#10 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(860): Drupal\Core\DrupalKernel->getCachedContainerDefinition()
+#11 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(461): Drupal\Core\DrupalKernel->initializeContainer()
+#12 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(651): Drupal\Core\DrupalKernel->boot()
+#13 /home/digithou/public_html/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#14 {main}
+[24-Sep-2017 06:18:35 Asia/Taipei] PDOException: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php on line 79 #0 /home/digithou/public_html/core/lib/Drupal/Core/Database/Driver/mysql/Connection.php(142): PDO->__construct('mysql:host=loca...', 'digithou_digit', '@digit60180618', Array)
+#1 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(376): Drupal\Core\Database\Driver\mysql\Connection::open(Array)
+#2 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(166): Drupal\Core\Database\Database::openConnection('default', 'default')
+#3 [internal function]: Drupal\Core\Database\Database::getConnection('default')
+#4 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(79): call_user_func_array('Drupal\\Core\\Dat...', Array)
+#5 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'database')
+#6 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(264): Drupal\Component\DependencyInjection\Container->get('database', 1)
+#7 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(62): Drupal\Component\DependencyInjection\PhpArrayContainer->resolveServicesAndParameters(Array)
+#8 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'cache.container')
+#9 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(508): Drupal\Component\DependencyInjection\Container->get('cache.container')
+#10 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(860): Drupal\Core\DrupalKernel->getCachedContainerDefinition()
+#11 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(461): Drupal\Core\DrupalKernel->initializeContainer()
+#12 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(651): Drupal\Core\DrupalKernel->boot()
+#13 /home/digithou/public_html/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#14 {main}
+[24-Sep-2017 06:19:21 Asia/Taipei] PDOException: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php on line 79 #0 /home/digithou/public_html/core/lib/Drupal/Core/Database/Driver/mysql/Connection.php(142): PDO->__construct('mysql:host=loca...', 'digithou_digit', '@digit60180618', Array)
+#1 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(376): Drupal\Core\Database\Driver\mysql\Connection::open(Array)
+#2 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(166): Drupal\Core\Database\Database::openConnection('default', 'default')
+#3 [internal function]: Drupal\Core\Database\Database::getConnection('default')
+#4 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(79): call_user_func_array('Drupal\\Core\\Dat...', Array)
+#5 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'database')
+#6 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(264): Drupal\Component\DependencyInjection\Container->get('database', 1)
+#7 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(62): Drupal\Component\DependencyInjection\PhpArrayContainer->resolveServicesAndParameters(Array)
+#8 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'cache.container')
+#9 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(508): Drupal\Component\DependencyInjection\Container->get('cache.container')
+#10 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(860): Drupal\Core\DrupalKernel->getCachedContainerDefinition()
+#11 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(461): Drupal\Core\DrupalKernel->initializeContainer()
+#12 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(651): Drupal\Core\DrupalKernel->boot()
+#13 /home/digithou/public_html/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#14 {main}
+[24-Sep-2017 06:19:54 Asia/Taipei] PDOException: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php on line 79 #0 /home/digithou/public_html/core/lib/Drupal/Core/Database/Driver/mysql/Connection.php(142): PDO->__construct('mysql:host=loca...', 'digithou_digit', '@digit60180618', Array)
+#1 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(376): Drupal\Core\Database\Driver\mysql\Connection::open(Array)
+#2 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(166): Drupal\Core\Database\Database::openConnection('default', 'default')
+#3 [internal function]: Drupal\Core\Database\Database::getConnection('default')
+#4 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(79): call_user_func_array('Drupal\\Core\\Dat...', Array)
+#5 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'database')
+#6 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(264): Drupal\Component\DependencyInjection\Container->get('database', 1)
+#7 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(62): Drupal\Component\DependencyInjection\PhpArrayContainer->resolveServicesAndParameters(Array)
+#8 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'cache.container')
+#9 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(508): Drupal\Component\DependencyInjection\Container->get('cache.container')
+#10 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(860): Drupal\Core\DrupalKernel->getCachedContainerDefinition()
+#11 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(461): Drupal\Core\DrupalKernel->initializeContainer()
+#12 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(651): Drupal\Core\DrupalKernel->boot()
+#13 /home/digithou/public_html/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#14 {main}
+[24-Sep-2017 06:20:18 Asia/Taipei] PDOException: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php on line 79 #0 /home/digithou/public_html/core/lib/Drupal/Core/Database/Driver/mysql/Connection.php(142): PDO->__construct('mysql:host=loca...', 'digithou_digit', '@digit60180618', Array)
+#1 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(376): Drupal\Core\Database\Driver\mysql\Connection::open(Array)
+#2 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(166): Drupal\Core\Database\Database::openConnection('default', 'default')
+#3 [internal function]: Drupal\Core\Database\Database::getConnection('default')
+#4 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(79): call_user_func_array('Drupal\\Core\\Dat...', Array)
+#5 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'database')
+#6 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(264): Drupal\Component\DependencyInjection\Container->get('database', 1)
+#7 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(62): Drupal\Component\DependencyInjection\PhpArrayContainer->resolveServicesAndParameters(Array)
+#8 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'cache.container')
+#9 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(508): Drupal\Component\DependencyInjection\Container->get('cache.container')
+#10 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(860): Drupal\Core\DrupalKernel->getCachedContainerDefinition()
+#11 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(461): Drupal\Core\DrupalKernel->initializeContainer()
+#12 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(651): Drupal\Core\DrupalKernel->boot()
+#13 /home/digithou/public_html/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#14 {main}
+[24-Sep-2017 06:21:54 Asia/Taipei] PDOException: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php on line 79 #0 /home/digithou/public_html/core/lib/Drupal/Core/Database/Driver/mysql/Connection.php(142): PDO->__construct('mysql:host=loca...', 'digithou_digit', '@digit60180618', Array)
+#1 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(376): Drupal\Core\Database\Driver\mysql\Connection::open(Array)
+#2 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(166): Drupal\Core\Database\Database::openConnection('default', 'default')
+#3 [internal function]: Drupal\Core\Database\Database::getConnection('default')
+#4 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(79): call_user_func_array('Drupal\\Core\\Dat...', Array)
+#5 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'database')
+#6 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(264): Drupal\Component\DependencyInjection\Container->get('database', 1)
+#7 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(62): Drupal\Component\DependencyInjection\PhpArrayContainer->resolveServicesAndParameters(Array)
+#8 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'cache.container')
+#9 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(508): Drupal\Component\DependencyInjection\Container->get('cache.container')
+#10 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(860): Drupal\Core\DrupalKernel->getCachedContainerDefinition()
+#11 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(461): Drupal\Core\DrupalKernel->initializeContainer()
+#12 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(651): Drupal\Core\DrupalKernel->boot()
+#13 /home/digithou/public_html/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#14 {main}
+[24-Sep-2017 06:22:35 Asia/Taipei] PDOException: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php on line 79 #0 /home/digithou/public_html/core/lib/Drupal/Core/Database/Driver/mysql/Connection.php(142): PDO->__construct('mysql:host=loca...', 'digithou_digit', '@digit60180618', Array)
+#1 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(376): Drupal\Core\Database\Driver\mysql\Connection::open(Array)
+#2 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(166): Drupal\Core\Database\Database::openConnection('default', 'default')
+#3 [internal function]: Drupal\Core\Database\Database::getConnection('default')
+#4 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(79): call_user_func_array('Drupal\\Core\\Dat...', Array)
+#5 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'database')
+#6 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(264): Drupal\Component\DependencyInjection\Container->get('database', 1)
+#7 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(62): Drupal\Component\DependencyInjection\PhpArrayContainer->resolveServicesAndParameters(Array)
+#8 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'cache.container')
+#9 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(508): Drupal\Component\DependencyInjection\Container->get('cache.container')
+#10 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(860): Drupal\Core\DrupalKernel->getCachedContainerDefinition()
+#11 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(461): Drupal\Core\DrupalKernel->initializeContainer()
+#12 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(651): Drupal\Core\DrupalKernel->boot()
+#13 /home/digithou/public_html/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#14 {main}
+[24-Sep-2017 06:26:20 Asia/Taipei] PDOException: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php on line 79 #0 /home/digithou/public_html/core/lib/Drupal/Core/Database/Driver/mysql/Connection.php(142): PDO->__construct('mysql:host=loca...', 'digithou_digit', '@digit60180618', Array)
+#1 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(376): Drupal\Core\Database\Driver\mysql\Connection::open(Array)
+#2 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(166): Drupal\Core\Database\Database::openConnection('default', 'default')
+#3 [internal function]: Drupal\Core\Database\Database::getConnection('default')
+#4 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(79): call_user_func_array('Drupal\\Core\\Dat...', Array)
+#5 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'database')
+#6 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(264): Drupal\Component\DependencyInjection\Container->get('database', 1)
+#7 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(62): Drupal\Component\DependencyInjection\PhpArrayContainer->resolveServicesAndParameters(Array)
+#8 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'cache.container')
+#9 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(508): Drupal\Component\DependencyInjection\Container->get('cache.container')
+#10 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(860): Drupal\Core\DrupalKernel->getCachedContainerDefinition()
+#11 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(461): Drupal\Core\DrupalKernel->initializeContainer()
+#12 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(651): Drupal\Core\DrupalKernel->boot()
+#13 /home/digithou/public_html/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#14 {main}
+[24-Sep-2017 06:26:39 Asia/Taipei] PDOException: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php on line 79 #0 /home/digithou/public_html/core/lib/Drupal/Core/Database/Driver/mysql/Connection.php(142): PDO->__construct('mysql:host=loca...', 'digithou_digit', '@digit60180618', Array)
+#1 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(376): Drupal\Core\Database\Driver\mysql\Connection::open(Array)
+#2 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(166): Drupal\Core\Database\Database::openConnection('default', 'default')
+#3 [internal function]: Drupal\Core\Database\Database::getConnection('default')
+#4 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(79): call_user_func_array('Drupal\\Core\\Dat...', Array)
+#5 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'database')
+#6 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(264): Drupal\Component\DependencyInjection\Container->get('database', 1)
+#7 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(62): Drupal\Component\DependencyInjection\PhpArrayContainer->resolveServicesAndParameters(Array)
+#8 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'cache.container')
+#9 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(508): Drupal\Component\DependencyInjection\Container->get('cache.container')
+#10 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(860): Drupal\Core\DrupalKernel->getCachedContainerDefinition()
+#11 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(461): Drupal\Core\DrupalKernel->initializeContainer()
+#12 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(651): Drupal\Core\DrupalKernel->boot()
+#13 /home/digithou/public_html/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#14 {main}
+[25-Sep-2017 19:29:57 Asia/Taipei] PDOException: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php on line 79 #0 /home/digithou/public_html/core/lib/Drupal/Core/Database/Driver/mysql/Connection.php(142): PDO->__construct('mysql:host=loca...', 'digithou_digit', '@digit60180618', Array)
+#1 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(376): Drupal\Core\Database\Driver\mysql\Connection::open(Array)
+#2 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(166): Drupal\Core\Database\Database::openConnection('default', 'default')
+#3 [internal function]: Drupal\Core\Database\Database::getConnection('default')
+#4 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(79): call_user_func_array('Drupal\\Core\\Dat...', Array)
+#5 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'database')
+#6 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(264): Drupal\Component\DependencyInjection\Container->get('database', 1)
+#7 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(62): Drupal\Component\DependencyInjection\PhpArrayContainer->resolveServicesAndParameters(Array)
+#8 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'cache.container')
+#9 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(508): Drupal\Component\DependencyInjection\Container->get('cache.container')
+#10 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(860): Drupal\Core\DrupalKernel->getCachedContainerDefinition()
+#11 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(461): Drupal\Core\DrupalKernel->initializeContainer()
+#12 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(651): Drupal\Core\DrupalKernel->boot()
+#13 /home/digithou/public_html/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#14 {main}
+[25-Sep-2017 19:29:58 Asia/Taipei] PDOException: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php on line 79 #0 /home/digithou/public_html/core/lib/Drupal/Core/Database/Driver/mysql/Connection.php(142): PDO->__construct('mysql:host=loca...', 'digithou_digit', '@digit60180618', Array)
+#1 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(376): Drupal\Core\Database\Driver\mysql\Connection::open(Array)
+#2 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(166): Drupal\Core\Database\Database::openConnection('default', 'default')
+#3 [internal function]: Drupal\Core\Database\Database::getConnection('default')
+#4 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(79): call_user_func_array('Drupal\\Core\\Dat...', Array)
+#5 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'database')
+#6 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(264): Drupal\Component\DependencyInjection\Container->get('database', 1)
+#7 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(62): Drupal\Component\DependencyInjection\PhpArrayContainer->resolveServicesAndParameters(Array)
+#8 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'cache.container')
+#9 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(508): Drupal\Component\DependencyInjection\Container->get('cache.container')
+#10 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(860): Drupal\Core\DrupalKernel->getCachedContainerDefinition()
+#11 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(461): Drupal\Core\DrupalKernel->initializeContainer()
+#12 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(651): Drupal\Core\DrupalKernel->boot()
+#13 /home/digithou/public_html/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#14 {main}
+[25-Sep-2017 19:32:19 Asia/Taipei] PDOException: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php on line 79 #0 /home/digithou/public_html/core/lib/Drupal/Core/Database/Driver/mysql/Connection.php(142): PDO->__construct('mysql:host=loca...', 'digithou_digit', '@digit60180618', Array)
+#1 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(376): Drupal\Core\Database\Driver\mysql\Connection::open(Array)
+#2 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(166): Drupal\Core\Database\Database::openConnection('default', 'default')
+#3 [internal function]: Drupal\Core\Database\Database::getConnection('default')
+#4 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(79): call_user_func_array('Drupal\\Core\\Dat...', Array)
+#5 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'database')
+#6 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(264): Drupal\Component\DependencyInjection\Container->get('database', 1)
+#7 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(62): Drupal\Component\DependencyInjection\PhpArrayContainer->resolveServicesAndParameters(Array)
+#8 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'cache.container')
+#9 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(508): Drupal\Component\DependencyInjection\Container->get('cache.container')
+#10 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(860): Drupal\Core\DrupalKernel->getCachedContainerDefinition()
+#11 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(461): Drupal\Core\DrupalKernel->initializeContainer()
+#12 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(651): Drupal\Core\DrupalKernel->boot()
+#13 /home/digithou/public_html/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#14 {main}
+[25-Sep-2017 19:32:19 Asia/Taipei] PDOException: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php on line 79 #0 /home/digithou/public_html/core/lib/Drupal/Core/Database/Driver/mysql/Connection.php(142): PDO->__construct('mysql:host=loca...', 'digithou_digit', '@digit60180618', Array)
+#1 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(376): Drupal\Core\Database\Driver\mysql\Connection::open(Array)
+#2 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(166): Drupal\Core\Database\Database::openConnection('default', 'default')
+#3 [internal function]: Drupal\Core\Database\Database::getConnection('default')
+#4 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(79): call_user_func_array('Drupal\\Core\\Dat...', Array)
+#5 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'database')
+#6 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(264): Drupal\Component\DependencyInjection\Container->get('database', 1)
+#7 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(62): Drupal\Component\DependencyInjection\PhpArrayContainer->resolveServicesAndParameters(Array)
+#8 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'cache.container')
+#9 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(508): Drupal\Component\DependencyInjection\Container->get('cache.container')
+#10 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(860): Drupal\Core\DrupalKernel->getCachedContainerDefinition()
+#11 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(461): Drupal\Core\DrupalKernel->initializeContainer()
+#12 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(651): Drupal\Core\DrupalKernel->boot()
+#13 /home/digithou/public_html/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#14 {main}
+[25-Sep-2017 19:32:19 Asia/Taipei] PDOException: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php on line 79 #0 /home/digithou/public_html/core/lib/Drupal/Core/Database/Driver/mysql/Connection.php(142): PDO->__construct('mysql:host=loca...', 'digithou_digit', '@digit60180618', Array)
+#1 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(376): Drupal\Core\Database\Driver\mysql\Connection::open(Array)
+#2 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(166): Drupal\Core\Database\Database::openConnection('default', 'default')
+#3 [internal function]: Drupal\Core\Database\Database::getConnection('default')
+#4 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(79): call_user_func_array('Drupal\\Core\\Dat...', Array)
+#5 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'database')
+#6 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(264): Drupal\Component\DependencyInjection\Container->get('database', 1)
+#7 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(62): Drupal\Component\DependencyInjection\PhpArrayContainer->resolveServicesAndParameters(Array)
+#8 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'cache.container')
+#9 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(508): Drupal\Component\DependencyInjection\Container->get('cache.container')
+#10 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(860): Drupal\Core\DrupalKernel->getCachedContainerDefinition()
+#11 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(461): Drupal\Core\DrupalKernel->initializeContainer()
+#12 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(651): Drupal\Core\DrupalKernel->boot()
+#13 /home/digithou/public_html/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#14 {main}
+[26-Sep-2017 01:45:58 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[27-Sep-2017 21:02:12 Asia/Taipei] PDOException: SQLSTATE[HY000] [2013] Lost connection to MySQL server at 'waiting for initial communication packet', system error: 110 in /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php on line 79 #0 /home/digithou/public_html/core/lib/Drupal/Core/Database/Driver/mysql/Connection.php(142): PDO->__construct('mysql:host=loca...', 'digithou_digit', '@digit60180618', Array)
+#1 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(376): Drupal\Core\Database\Driver\mysql\Connection::open(Array)
+#2 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(166): Drupal\Core\Database\Database::openConnection('default', 'default')
+#3 [internal function]: Drupal\Core\Database\Database::getConnection('default')
+#4 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(79): call_user_func_array('Drupal\\Core\\Dat...', Array)
+#5 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'database')
+#6 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(264): Drupal\Component\DependencyInjection\Container->get('database', 1)
+#7 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(62): Drupal\Component\DependencyInjection\PhpArrayContainer->resolveServicesAndParameters(Array)
+#8 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'cache.container')
+#9 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(508): Drupal\Component\DependencyInjection\Container->get('cache.container')
+#10 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(860): Drupal\Core\DrupalKernel->getCachedContainerDefinition()
+#11 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(461): Drupal\Core\DrupalKernel->initializeContainer()
+#12 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(651): Drupal\Core\DrupalKernel->boot()
+#13 /home/digithou/public_html/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#14 {main}
+[27-Sep-2017 21:06:13 Asia/Taipei] PDOException: SQLSTATE[HY000] [2013] Lost connection to MySQL server at 'waiting for initial communication packet', system error: 110 in /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php on line 79 #0 /home/digithou/public_html/core/lib/Drupal/Core/Database/Driver/mysql/Connection.php(142): PDO->__construct('mysql:host=loca...', 'digithou_digit', '@digit60180618', Array)
+#1 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(376): Drupal\Core\Database\Driver\mysql\Connection::open(Array)
+#2 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(166): Drupal\Core\Database\Database::openConnection('default', 'default')
+#3 [internal function]: Drupal\Core\Database\Database::getConnection('default')
+#4 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(79): call_user_func_array('Drupal\\Core\\Dat...', Array)
+#5 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'database')
+#6 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(264): Drupal\Component\DependencyInjection\Container->get('database', 1)
+#7 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(62): Drupal\Component\DependencyInjection\PhpArrayContainer->resolveServicesAndParameters(Array)
+#8 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'cache.container')
+#9 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(508): Drupal\Component\DependencyInjection\Container->get('cache.container')
+#10 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(860): Drupal\Core\DrupalKernel->getCachedContainerDefinition()
+#11 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(461): Drupal\Core\DrupalKernel->initializeContainer()
+#12 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(651): Drupal\Core\DrupalKernel->boot()
+#13 /home/digithou/public_html/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#14 {main}
+[28-Sep-2017 10:00:43 Asia/Taipei] PDOException: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php on line 79 #0 /home/digithou/public_html/core/lib/Drupal/Core/Database/Driver/mysql/Connection.php(142): PDO->__construct('mysql:host=loca...', 'digithou_digit', '@digit60180618', Array)
+#1 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(376): Drupal\Core\Database\Driver\mysql\Connection::open(Array)
+#2 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(166): Drupal\Core\Database\Database::openConnection('default', 'default')
+#3 [internal function]: Drupal\Core\Database\Database::getConnection('default')
+#4 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(79): call_user_func_array('Drupal\\Core\\Dat...', Array)
+#5 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'database')
+#6 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(264): Drupal\Component\DependencyInjection\Container->get('database', 1)
+#7 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(62): Drupal\Component\DependencyInjection\PhpArrayContainer->resolveServicesAndParameters(Array)
+#8 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'cache.container')
+#9 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(508): Drupal\Component\DependencyInjection\Container->get('cache.container')
+#10 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(860): Drupal\Core\DrupalKernel->getCachedContainerDefinition()
+#11 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(461): Drupal\Core\DrupalKernel->initializeContainer()
+#12 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(651): Drupal\Core\DrupalKernel->boot()
+#13 /home/digithou/public_html/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#14 {main}
+[28-Sep-2017 10:04:51 Asia/Taipei] PDOException: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php on line 79 #0 /home/digithou/public_html/core/lib/Drupal/Core/Database/Driver/mysql/Connection.php(142): PDO->__construct('mysql:host=loca...', 'digithou_digit', '@digit60180618', Array)
+#1 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(376): Drupal\Core\Database\Driver\mysql\Connection::open(Array)
+#2 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(166): Drupal\Core\Database\Database::openConnection('default', 'default')
+#3 [internal function]: Drupal\Core\Database\Database::getConnection('default')
+#4 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(79): call_user_func_array('Drupal\\Core\\Dat...', Array)
+#5 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'database')
+#6 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(264): Drupal\Component\DependencyInjection\Container->get('database', 1)
+#7 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(62): Drupal\Component\DependencyInjection\PhpArrayContainer->resolveServicesAndParameters(Array)
+#8 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'cache.container')
+#9 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(508): Drupal\Component\DependencyInjection\Container->get('cache.container')
+#10 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(860): Drupal\Core\DrupalKernel->getCachedContainerDefinition()
+#11 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(461): Drupal\Core\DrupalKernel->initializeContainer()
+#12 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(651): Drupal\Core\DrupalKernel->boot()
+#13 /home/digithou/public_html/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#14 {main}
+[28-Sep-2017 10:07:13 Asia/Taipei] PDOException: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php on line 79 #0 /home/digithou/public_html/core/lib/Drupal/Core/Database/Driver/mysql/Connection.php(142): PDO->__construct('mysql:host=loca...', 'digithou_digit', '@digit60180618', Array)
+#1 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(376): Drupal\Core\Database\Driver\mysql\Connection::open(Array)
+#2 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(166): Drupal\Core\Database\Database::openConnection('default', 'default')
+#3 [internal function]: Drupal\Core\Database\Database::getConnection('default')
+#4 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(79): call_user_func_array('Drupal\\Core\\Dat...', Array)
+#5 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'database')
+#6 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(264): Drupal\Component\DependencyInjection\Container->get('database', 1)
+#7 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(62): Drupal\Component\DependencyInjection\PhpArrayContainer->resolveServicesAndParameters(Array)
+#8 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'cache.container')
+#9 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(508): Drupal\Component\DependencyInjection\Container->get('cache.container')
+#10 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(860): Drupal\Core\DrupalKernel->getCachedContainerDefinition()
+#11 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(461): Drupal\Core\DrupalKernel->initializeContainer()
+#12 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(651): Drupal\Core\DrupalKernel->boot()
+#13 /home/digithou/public_html/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#14 {main}
+[28-Sep-2017 10:09:47 Asia/Taipei] PDOException: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php on line 79 #0 /home/digithou/public_html/core/lib/Drupal/Core/Database/Driver/mysql/Connection.php(142): PDO->__construct('mysql:host=loca...', 'digithou_digit', '@digit60180618', Array)
+#1 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(376): Drupal\Core\Database\Driver\mysql\Connection::open(Array)
+#2 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(166): Drupal\Core\Database\Database::openConnection('default', 'default')
+#3 [internal function]: Drupal\Core\Database\Database::getConnection('default')
+#4 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(79): call_user_func_array('Drupal\\Core\\Dat...', Array)
+#5 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'database')
+#6 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(264): Drupal\Component\DependencyInjection\Container->get('database', 1)
+#7 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(62): Drupal\Component\DependencyInjection\PhpArrayContainer->resolveServicesAndParameters(Array)
+#8 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'cache.container')
+#9 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(508): Drupal\Component\DependencyInjection\Container->get('cache.container')
+#10 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(860): Drupal\Core\DrupalKernel->getCachedContainerDefinition()
+#11 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(461): Drupal\Core\DrupalKernel->initializeContainer()
+#12 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(651): Drupal\Core\DrupalKernel->boot()
+#13 /home/digithou/public_html/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#14 {main}
+[28-Sep-2017 16:08:58 Asia/Taipei] PDOException: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php on line 79 #0 /home/digithou/public_html/core/lib/Drupal/Core/Database/Driver/mysql/Connection.php(142): PDO->__construct('mysql:host=loca...', 'digithou_digit', '@digit60180618', Array)
+#1 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(376): Drupal\Core\Database\Driver\mysql\Connection::open(Array)
+#2 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(166): Drupal\Core\Database\Database::openConnection('default', 'default')
+#3 [internal function]: Drupal\Core\Database\Database::getConnection('default')
+#4 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(79): call_user_func_array('Drupal\\Core\\Dat...', Array)
+#5 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'database')
+#6 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(264): Drupal\Component\DependencyInjection\Container->get('database', 1)
+#7 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(62): Drupal\Component\DependencyInjection\PhpArrayContainer->resolveServicesAndParameters(Array)
+#8 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'cache.container')
+#9 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(508): Drupal\Component\DependencyInjection\Container->get('cache.container')
+#10 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(860): Drupal\Core\DrupalKernel->getCachedContainerDefinition()
+#11 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(461): Drupal\Core\DrupalKernel->initializeContainer()
+#12 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(651): Drupal\Core\DrupalKernel->boot()
+#13 /home/digithou/public_html/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#14 {main}
+[28-Sep-2017 19:28:48 Asia/Taipei] PDOException: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php on line 79 #0 /home/digithou/public_html/core/lib/Drupal/Core/Database/Driver/mysql/Connection.php(142): PDO->__construct('mysql:host=loca...', 'digithou_digit', '@digit60180618', Array)
+#1 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(376): Drupal\Core\Database\Driver\mysql\Connection::open(Array)
+#2 /home/digithou/public_html/core/lib/Drupal/Core/Database/Database.php(166): Drupal\Core\Database\Database::openConnection('default', 'default')
+#3 [internal function]: Drupal\Core\Database\Database::getConnection('default')
+#4 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(79): call_user_func_array('Drupal\\Core\\Dat...', Array)
+#5 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'database')
+#6 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(264): Drupal\Component\DependencyInjection\Container->get('database', 1)
+#7 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(62): Drupal\Component\DependencyInjection\PhpArrayContainer->resolveServicesAndParameters(Array)
+#8 /home/digithou/public_html/core/lib/Drupal/Component/DependencyInjection/Container.php(177): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'cache.container')
+#9 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(508): Drupal\Component\DependencyInjection\Container->get('cache.container')
+#10 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(860): Drupal\Core\DrupalKernel->getCachedContainerDefinition()
+#11 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(461): Drupal\Core\DrupalKernel->initializeContainer()
+#12 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(651): Drupal\Core\DrupalKernel->boot()
+#13 /home/digithou/public_html/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#14 {main}
+[29-Sep-2017 05:42:16 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[29-Sep-2017 23:21:31 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[30-Sep-2017 18:41:15 Asia/Taipei] exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 2006 MySQL server has gone away' in /home/digithou/public_html/core/lib/Drupal/Core/Database/Statement.php:59
+Stack trace:
+#0 /home/digithou/public_html/core/lib/Drupal/Core/Database/Statement.php(59): PDOStatement->execute(Array)
+#1 /home/digithou/public_html/core/lib/Drupal/Core/Database/Connection.php(610): Drupal\Core\Database\Statement->execute(Array, Array)
+#2 /home/digithou/public_html/core/lib/Drupal/Core/Database/Driver/mysql/Connection.php(81): Drupal\Core\Database\Connection->query('SELECT t.word A...', Array, Array)
+#3 /home/digithou/public_html/core/includes/database.inc(61): Drupal\Core\Database\Driver\mysql\Connection->query('SELECT t.word A...', Array, Array)
+#4 /home/digithou/public_html/core/modules/search/search.module(220): db_query('SELECT t.word A...', Array, Array)
+#5 [internal function]: search_update_totals()
+#6 /home/digithou/public_html/core/includes/bootstrap.inc(987): call_user_func_array('search_update_t...', Array)
+#7 [internal function]: _drupal_shutdown_function()
+#8 {main}
+
+Next exception 'Drupal\Core\Database\DatabaseExceptionWrapper' with message 'SQLSTATE[HY000]: General error: 2006 MySQL server has gone away: SELECT t.word AS realword, i.word FROM {search_total} t LEFT JOIN {search_index} i ON t.word = i.word WHERE i.word IS NULL; Array
+(
+)
+' in /home/digithou/public_html/core/lib/Drupal/Core/Database/Connection.php:671
+Stack trace:
+#0 /home/digithou/public_html/core/lib/Drupal/Core/Database/Connection.php(635): Drupal\Core\Database\Connection->handleQueryException(Object(PDOException), 'SELECT t.word A...', Array, Array)
+#1 /home/digithou/public_html/core/lib/Drupal/Core/Database/Driver/mysql/Connection.php(81): Drupal\Core\Database\Connection->query('SELECT t.word A...', Array, Array)
+#2 /home/digithou/public_html/core/includes/database.inc(61): Drupal\Core\Database\Driver\mysql\Connection->query('SELECT t.word A...', Array, Array)
+#3 /home/digithou/public_html/core/modules/search/search.module(220): db_query('SELECT t.word A...', Array, Array)
+#4 [internal function]: search_update_totals()
+#5 /home/digithou/public_html/core/includes/bootstrap.inc(987): call_user_func_array('search_update_t...', Array)
+#6 [internal function]: _drupal_shutdown_function()
+#7 {main}
+[30-Sep-2017 21:43:04 Asia/Taipei] User error: Drupal\Core\Database\DatabaseExceptionWrapper thrown while calling __toString on a Drupal\Core\StringTranslation\TranslatableMarkup object in /home/digithou/public_html/core/lib/Drupal/Core/Database/Connection.php on line 671: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away: SELECT s.*, t.language AS language, t.translation AS translation, t.customized AS customized
+FROM 
+{locales_source} s
+LEFT OUTER JOIN {locales_target} t ON t.lid = s.lid AND t.language = :langcode
+WHERE  (s.source IN  (:db_condition_placeholder_0)) AND (s.context IN  (:db_condition_placeholder_1)); Array
+(
+    [:db_condition_placeholder_0] =&gt; The feed from %site seems to be broken because of error "%error".
+    [:db_condition_placeholder_1] =&gt; 
+    [:langcode] =&gt; zh-hant
+)
+ in /home/digithou/public_html/core/lib/Drupal/Component/Utility/ToStringTrait.php on line 20 #0 /home/digithou/public_html/core/includes/bootstrap.inc(548): _drupal_error_handler_real(256, 'Drupal\\Core\\Dat...', '/home/digithou/...', 20, Array)
+#1 [internal function]: _drupal_error_handler(256, 'Drupal\\Core\\Dat...', '/home/digithou/...', 20, Array)
+#2 /home/digithou/public_html/core/lib/Drupal/Component/Utility/ToStringTrait.php(20): trigger_error('Drupal\\Core\\Dat...', 256)
+#3 /home/digithou/public_html/core/includes/bootstrap.inc(451): Drupal\Core\StringTranslation\TranslatableMarkup->__toString()
+#4 /home/digithou/public_html/core/modules/aggregator/src/Plugin/aggregator/fetcher/DefaultFetcher.php(116): drupal_set_message(Object(Drupal\Core\StringTranslation\TranslatableMarkup), 'warning')
+#5 /home/digithou/public_html/core/modules/aggregator/src/ItemsImporter.php(90): Drupal\aggregator\Plugin\aggregator\fetcher\DefaultFetcher->fetch(Object(Drupal\aggregator\Entity\Feed))
+#6 /home/digithou/public_html/core/modules/aggregator/src/Entity/Feed.php(77): Drupal\aggregator\ItemsImporter->refresh(Object(Drupal\aggregator\Entity\Feed))
+#7 /home/digithou/public_html/core/modules/aggregator/src/Plugin/QueueWorker/AggregatorRefresh.php(24): Drupal\aggregator\Entity\Feed->refreshItems()
+#8 /home/digithou/public_html/core/lib/Drupal/Core/Cron.php(166): Drupal\aggregator\Plugin\QueueWorker\AggregatorRefresh->processItem(Object(Drupal\aggregator\Entity\Feed))
+#9 /home/digithou/public_html/core/lib/Drupal/Core/Cron.php(132): Drupal\Core\Cron->processQueues()
+#10 /home/digithou/public_html/core/lib/Drupal/Core/ProxyClass/Cron.php(75): Drupal\Core\Cron->run()
+#11 /home/digithou/public_html/core/modules/automated_cron/src/EventSubscriber/AutomatedCron.php(65): Drupal\Core\ProxyClass\Cron->run()
+#12 /home/digithou/public_html/core/lib/Drupal/Component/EventDispatcher/ContainerAwareEventDispatcher.php(111): Drupal\automated_cron\EventSubscriber\AutomatedCron->onTerminate(Object(Symfony\Component\HttpKernel\Event\PostResponseEvent), 'kernel.terminat...', Object(Drupal\Component\EventDispatcher\ContainerAwareEventDispatcher))
+#13 /home/digithou/public_html/vendor/symfony/http-kernel/HttpKernel.php(84): Drupal\Component\EventDispatcher\ContainerAwareEventDispatcher->dispatch('kernel.terminat...', Object(Symfony\Component\HttpKernel\Event\PostResponseEvent))
+#14 /home/digithou/public_html/vendor/stack/builder/src/Stack/StackedHttpKernel.php(32): Symfony\Component\HttpKernel\HttpKernel->terminate(Object(Symfony\Component\HttpFoundation\Request), Object(Drupal\image_captcha\Response\CaptchaImageResponse))
+#15 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(630): Stack\StackedHttpKernel->terminate(Object(Symfony\Component\HttpFoundation\Request), Object(Drupal\image_captcha\Response\CaptchaImageResponse))
+#16 /home/digithou/public_html/index.php(22): Drupal\Core\DrupalKernel->terminate(Object(Symfony\Component\HttpFoundation\Request), Object(Drupal\image_captcha\Response\CaptchaImageResponse))
+#17 {main}
+[30-Sep-2017 21:43:04 Asia/Taipei] exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 2006 MySQL server has gone away' in /home/digithou/public_html/core/lib/Drupal/Core/Database/Statement.php:59
+Stack trace:
+#0 /home/digithou/public_html/core/lib/Drupal/Core/Database/Statement.php(59): PDOStatement->execute(Array)
+#1 /home/digithou/public_html/core/lib/Drupal/Core/Database/Connection.php(610): Drupal\Core\Database\Statement->execute(Array, Array)
+#2 /home/digithou/public_html/core/lib/Drupal/Core/Database/Driver/mysql/Connection.php(81): Drupal\Core\Database\Connection->query('SELECT t.word A...', Array, Array)
+#3 /home/digithou/public_html/core/includes/database.inc(61): Drupal\Core\Database\Driver\mysql\Connection->query('SELECT t.word A...', Array, Array)
+#4 /home/digithou/public_html/core/modules/search/search.module(220): db_query('SELECT t.word A...', Array, Array)
+#5 [internal function]: search_update_totals()
+#6 /home/digithou/public_html/core/includes/bootstrap.inc(987): call_user_func_array('search_update_t...', Array)
+#7 [internal function]: _drupal_shutdown_function()
+#8 {main}
+
+Next exception 'Drupal\Core\Database\DatabaseExceptionWrapper' with message 'SQLSTATE[HY000]: General error: 2006 MySQL server has gone away: SELECT t.word AS realword, i.word FROM {search_total} t LEFT JOIN {search_index} i ON t.word = i.word WHERE i.word IS NULL; Array
+(
+)
+' in /home/digithou/public_html/core/lib/Drupal/Core/Database/Connection.php:671
+Stack trace:
+#0 /home/digithou/public_html/core/lib/Drupal/Core/Database/Connection.php(635): Drupal\Core\Database\Connection->handleQueryException(Object(PDOException), 'SELECT t.word A...', Array, Array)
+#1 /home/digithou/public_html/core/lib/Drupal/Core/Database/Driver/mysql/Connection.php(81): Drupal\Core\Database\Connection->query('SELECT t.word A...', Array, Array)
+#2 /home/digithou/public_html/core/includes/database.inc(61): Drupal\Core\Database\Driver\mysql\Connection->query('SELECT t.word A...', Array, Array)
+#3 /home/digithou/public_html/core/modules/search/search.module(220): db_query('SELECT t.word A...', Array, Array)
+#4 [internal function]: search_update_totals()
+#5 /home/digithou/public_html/core/includes/bootstrap.inc(987): call_user_func_array('search_update_t...', Array)
+#6 [internal function]: _drupal_shutdown_function()
+#7 {main}
+[02-Oct-2017 08:07:12 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[02-Oct-2017 08:07:22 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[02-Oct-2017 08:07:32 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[04-Oct-2017 08:11:02 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[05-Oct-2017 16:32:53 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[05-Oct-2017 16:32:56 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[05-Oct-2017 16:32:57 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[05-Oct-2017 16:32:58 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[05-Oct-2017 16:33:02 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[05-Oct-2017 18:56:00 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[06-Oct-2017 03:31:40 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[06-Oct-2017 05:36:53 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[06-Oct-2017 09:33:40 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[06-Oct-2017 18:58:53 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[08-Oct-2017 00:16:39 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[08-Oct-2017 02:43:26 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[08-Oct-2017 03:05:08 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[08-Oct-2017 04:17:18 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[08-Oct-2017 04:17:30 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[08-Oct-2017 04:17:40 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[08-Oct-2017 09:33:19 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[08-Oct-2017 12:15:19 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[11-Oct-2017 07:50:24 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[11-Oct-2017 07:52:48 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[11-Oct-2017 08:44:18 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[11-Oct-2017 14:33:00 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[11-Oct-2017 20:39:24 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[11-Oct-2017 20:44:35 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[13-Oct-2017 16:08:37 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[13-Oct-2017 16:08:48 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[13-Oct-2017 16:08:58 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[14-Oct-2017 02:35:29 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[14-Oct-2017 06:22:28 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[14-Oct-2017 16:00:29 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[14-Oct-2017 16:00:35 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[14-Oct-2017 16:00:38 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[14-Oct-2017 16:00:41 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[14-Oct-2017 16:00:47 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[15-Oct-2017 04:16:21 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[15-Oct-2017 11:54:15 Asia/Taipei] User error: Drupal\Core\Database\DatabaseExceptionWrapper thrown while calling __toString on a Drupal\Core\StringTranslation\TranslatableMarkup object in /home/digithou/public_html/core/lib/Drupal/Core/Database/Connection.php on line 671: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away: SELECT s.*, t.language AS language, t.translation AS translation, t.customized AS customized
+FROM 
+{locales_source} s
+LEFT OUTER JOIN {locales_target} t ON t.lid = s.lid AND t.language = :langcode
+WHERE  (s.source IN  (:db_condition_placeholder_0)) AND (s.context IN  (:db_condition_placeholder_1)); Array
+(
+    [:db_condition_placeholder_0] =&gt; The feed from %site seems to be broken because of error "%error".
+    [:db_condition_placeholder_1] =&gt; 
+    [:langcode] =&gt; zh-hant
+)
+ in /home/digithou/public_html/core/lib/Drupal/Component/Utility/ToStringTrait.php on line 20 #0 /home/digithou/public_html/core/includes/bootstrap.inc(548): _drupal_error_handler_real(256, 'Drupal\\Core\\Dat...', '/home/digithou/...', 20, Array)
+#1 [internal function]: _drupal_error_handler(256, 'Drupal\\Core\\Dat...', '/home/digithou/...', 20, Array)
+#2 /home/digithou/public_html/core/lib/Drupal/Component/Utility/ToStringTrait.php(20): trigger_error('Drupal\\Core\\Dat...', 256)
+#3 /home/digithou/public_html/core/includes/bootstrap.inc(451): Drupal\Core\StringTranslation\TranslatableMarkup->__toString()
+#4 /home/digithou/public_html/core/modules/aggregator/src/Plugin/aggregator/fetcher/DefaultFetcher.php(116): drupal_set_message(Object(Drupal\Core\StringTranslation\TranslatableMarkup), 'warning')
+#5 /home/digithou/public_html/core/modules/aggregator/src/ItemsImporter.php(90): Drupal\aggregator\Plugin\aggregator\fetcher\DefaultFetcher->fetch(Object(Drupal\aggregator\Entity\Feed))
+#6 /home/digithou/public_html/core/modules/aggregator/src/Entity/Feed.php(77): Drupal\aggregator\ItemsImporter->refresh(Object(Drupal\aggregator\Entity\Feed))
+#7 /home/digithou/public_html/core/modules/aggregator/src/Plugin/QueueWorker/AggregatorRefresh.php(24): Drupal\aggregator\Entity\Feed->refreshItems()
+#8 /home/digithou/public_html/core/lib/Drupal/Core/Cron.php(166): Drupal\aggregator\Plugin\QueueWorker\AggregatorRefresh->processItem(Object(Drupal\aggregator\Entity\Feed))
+#9 /home/digithou/public_html/core/lib/Drupal/Core/Cron.php(132): Drupal\Core\Cron->processQueues()
+#10 /home/digithou/public_html/core/lib/Drupal/Core/ProxyClass/Cron.php(75): Drupal\Core\Cron->run()
+#11 /home/digithou/public_html/core/modules/automated_cron/src/EventSubscriber/AutomatedCron.php(65): Drupal\Core\ProxyClass\Cron->run()
+#12 /home/digithou/public_html/core/lib/Drupal/Component/EventDispatcher/ContainerAwareEventDispatcher.php(111): Drupal\automated_cron\EventSubscriber\AutomatedCron->onTerminate(Object(Symfony\Component\HttpKernel\Event\PostResponseEvent), 'kernel.terminat...', Object(Drupal\Component\EventDispatcher\ContainerAwareEventDispatcher))
+#13 /home/digithou/public_html/vendor/symfony/http-kernel/HttpKernel.php(84): Drupal\Component\EventDispatcher\ContainerAwareEventDispatcher->dispatch('kernel.terminat...', Object(Symfony\Component\HttpKernel\Event\PostResponseEvent))
+#14 /home/digithou/public_html/vendor/stack/builder/src/Stack/StackedHttpKernel.php(32): Symfony\Component\HttpKernel\HttpKernel->terminate(Object(Symfony\Component\HttpFoundation\Request), Object(Drupal\Core\Render\HtmlResponse))
+#15 /home/digithou/public_html/core/lib/Drupal/Core/DrupalKernel.php(630): Stack\StackedHttpKernel->terminate(Object(Symfony\Component\HttpFoundation\Request), Object(Drupal\Core\Render\HtmlResponse))
+#16 /home/digithou/public_html/index.php(22): Drupal\Core\DrupalKernel->terminate(Object(Symfony\Component\HttpFoundation\Request), Object(Drupal\Core\Render\HtmlResponse))
+#17 {main}
+[15-Oct-2017 11:54:15 Asia/Taipei] exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 2006 MySQL server has gone away' in /home/digithou/public_html/core/lib/Drupal/Core/Database/Statement.php:59
+Stack trace:
+#0 /home/digithou/public_html/core/lib/Drupal/Core/Database/Statement.php(59): PDOStatement->execute(Array)
+#1 /home/digithou/public_html/core/lib/Drupal/Core/Database/Connection.php(610): Drupal\Core\Database\Statement->execute(Array, Array)
+#2 /home/digithou/public_html/core/lib/Drupal/Core/Database/Driver/mysql/Connection.php(81): Drupal\Core\Database\Connection->query('SELECT t.word A...', Array, Array)
+#3 /home/digithou/public_html/core/includes/database.inc(61): Drupal\Core\Database\Driver\mysql\Connection->query('SELECT t.word A...', Array, Array)
+#4 /home/digithou/public_html/core/modules/search/search.module(220): db_query('SELECT t.word A...', Array, Array)
+#5 [internal function]: search_update_totals()
+#6 /home/digithou/public_html/core/includes/bootstrap.inc(987): call_user_func_array('search_update_t...', Array)
+#7 [internal function]: _drupal_shutdown_function()
+#8 {main}
+
+Next exception 'Drupal\Core\Database\DatabaseExceptionWrapper' with message 'SQLSTATE[HY000]: General error: 2006 MySQL server has gone away: SELECT t.word AS realword, i.word FROM {search_total} t LEFT JOIN {search_index} i ON t.word = i.word WHERE i.word IS NULL; Array
+(
+)
+' in /home/digithou/public_html/core/lib/Drupal/Core/Database/Connection.php:671
+Stack trace:
+#0 /home/digithou/public_html/core/lib/Drupal/Core/Database/Connection.php(635): Drupal\Core\Database\Connection->handleQueryException(Object(PDOException), 'SELECT t.word A...', Array, Array)
+#1 /home/digithou/public_html/core/lib/Drupal/Core/Database/Driver/mysql/Connection.php(81): Drupal\Core\Database\Connection->query('SELECT t.word A...', Array, Array)
+#2 /home/digithou/public_html/core/includes/database.inc(61): Drupal\Core\Database\Driver\mysql\Connection->query('SELECT t.word A...', Array, Array)
+#3 /home/digithou/public_html/core/modules/search/search.module(220): db_query('SELECT t.word A...', Array, Array)
+#4 [internal function]: search_update_totals()
+#5 /home/digithou/public_html/core/includes/bootstrap.inc(987): call_user_func_array('search_update_t...', Array)
+#6 [internal function]: _drupal_shutdown_function()
+#7 {main}
+[15-Oct-2017 23:18:21 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[17-Oct-2017 16:16:38 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[18-Oct-2017 04:25:40 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[18-Oct-2017 05:51:04 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[18-Oct-2017 05:51:04 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[18-Oct-2017 05:51:04 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[18-Oct-2017 05:51:15 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[18-Oct-2017 08:28:29 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[18-Oct-2017 09:20:31 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[18-Oct-2017 15:10:41 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[18-Oct-2017 15:17:11 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[18-Oct-2017 15:17:21 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[18-Oct-2017 15:17:32 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[18-Oct-2017 17:13:21 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[18-Oct-2017 17:13:45 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[18-Oct-2017 17:13:55 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[18-Oct-2017 17:14:16 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[18-Oct-2017 17:16:26 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[18-Oct-2017 23:33:28 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[18-Oct-2017 23:34:01 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[18-Oct-2017 23:34:12 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[18-Oct-2017 23:34:32 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[18-Oct-2017 23:35:57 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[19-Oct-2017 02:33:19 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[19-Oct-2017 02:33:30 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[19-Oct-2017 02:33:49 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[19-Oct-2017 02:33:59 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[19-Oct-2017 02:34:11 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[19-Oct-2017 04:11:20 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[19-Oct-2017 04:11:30 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[19-Oct-2017 04:11:40 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[19-Oct-2017 08:06:58 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[19-Oct-2017 10:58:24 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[19-Oct-2017 10:58:28 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[19-Oct-2017 10:58:28 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[19-Oct-2017 10:58:29 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[19-Oct-2017 10:58:32 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[19-Oct-2017 16:21:20 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[21-Oct-2017 17:10:35 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[21-Oct-2017 17:56:14 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[21-Oct-2017 19:39:40 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[23-Oct-2017 02:39:54 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[24-Oct-2017 09:07:46 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[24-Oct-2017 09:07:48 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[24-Oct-2017 09:07:49 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[24-Oct-2017 09:07:50 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[28-Oct-2017 16:51:21 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[28-Oct-2017 16:52:53 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[30-Oct-2017 05:49:59 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[30-Oct-2017 12:11:39 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[30-Oct-2017 12:11:48 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[30-Oct-2017 12:11:58 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[31-Oct-2017 09:14:33 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[01-Nov-2017 05:43:23 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[01-Nov-2017 08:14:57 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[01-Nov-2017 09:30:44 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[01-Nov-2017 10:46:32 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[02-Nov-2017 06:52:55 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[02-Nov-2017 16:39:37 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[02-Nov-2017 16:39:53 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187
+[03-Nov-2017 01:54:02 Asia/Taipei] Uncaught PHP Exception Symfony\Component\Routing\Exception\RouteNotFoundException: "Route "view.blog.blog_user_all" does not exist." at /home/digithou/public_html/core/lib/Drupal/Core/Routing/RouteProvider.php line 187

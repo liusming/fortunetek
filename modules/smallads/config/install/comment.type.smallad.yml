@@ -1,0 +1,11 @@
+uuid: d2164750-4215-4b79-8909-09b1c54223e1
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: yqe87NItMgw4bqvQ1DdvVwtCE74nxuZwL9V82kAt2Ic
+id: smallad
+label: 'Ad comment'
+target_entity_type_id: smallad
+description: 'Help the other members assess this ad'
+

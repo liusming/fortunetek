@@ -1,0 +1,29 @@
+uuid: 340996f3-11c0-4305-aa38-56ca7c47195a
+langcode: en
+status: true
+dependencies: 
+  module:
+    - smallads
+id: goods_services
+label: Goods/services
+bundles: {  }
+entity_type: smallad
+enabled: true
+global: true
+weight: 0
+flag_short: 'Change of ownership'
+flag_long: 'Click if this is a service or a loan'
+flag_message: 'Change of ownership'
+unflag_short: Service
+unflag_long: 'Click if this is an item to change ownership'
+unflag_message: 'Service or loan'
+unflag_denied_text: ''
+flag_type: 'entity:smallad'
+link_type: ajax_link
+flagTypeConfig:
+  show_in_links: {  }
+  show_as_field: 1
+  show_on_form: 1
+  show_contextual_link: 0
+linkTypeConfig: {  }
+

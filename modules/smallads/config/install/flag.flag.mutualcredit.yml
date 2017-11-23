@@ -1,0 +1,29 @@
+uuid: f5edae49-4d70-4db5-8557-8703e991b717
+langcode: en
+status: true
+dependencies: 
+  module:
+    - smallads
+id: mutualcredit
+label: Mutual credit
+bundles: {  }
+entity_type: smallad
+enabled: true
+global: true
+weight: 0
+flag_short: 'Community Currency accepted'
+flag_long: 'Click if you use community currency'
+flag_message: 'Community Currency'
+unflag_short: Not
+unflag_long: 'Click if you don''t use community currency'
+unflag_message: 'No community currency'
+unflag_denied_text: ''
+flag_type: 'entity:smallad'
+link_type: ajax_link
+flagTypeConfig:
+  show_in_links: {  }
+  show_as_field: 1
+  show_on_form: 1
+  show_contextual_link: 0
+linkTypeConfig: {  }
+

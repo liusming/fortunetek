@@ -1,0 +1,31 @@
+smallads:
+  type: config_object
+  label: 'Small ad configuration'
+  mapping:
+    default_expiry:
+      type: string
+      label: Default expiry date on ads
+    geo_field:
+      type: string
+      label: Coordinates field instance
+      
+
+smallad.type.*:
+  type: config_entity
+  label: 'Smallad type settings'
+  mapping:
+    id:
+      type: string
+      label: 'ID'
+    label:
+      type: label
+      label: 'Label'
+    label_plural:
+      type: label
+      label: 'Plural label'
+    description:
+      type: text
+      label: 'Description'
+    weight:
+      type: integer
+      label: Weight

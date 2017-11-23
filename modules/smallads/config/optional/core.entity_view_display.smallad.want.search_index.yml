@@ -1,0 +1,33 @@
+uuid: 0bb3870b-317a-46d4-8900-dc7c1917df98
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.smallad.search_index
+    - field.field.smallad.want.categories
+  module:
+    - smallads
+id: smallad.want.search_index
+targetEntityType: smallad
+bundle: want
+mode: search_index
+content:
+  body:
+    type: basic_string
+    weight: 0
+    settings: {  }
+    third_party_settings: {  }
+    label: hidden
+  categories:
+    type: entity_reference_label
+    weight: 1
+    settings:
+      link: true
+    third_party_settings: {  }
+    label: hidden
+hidden:
+  attached: true
+  changed: true
+  uid: true
+  uri: true
+

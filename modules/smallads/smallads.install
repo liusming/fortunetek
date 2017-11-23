@@ -1,0 +1,69 @@
+<?php
+
+use Drupal\taxonomy\Entity\Term;
+use Drupal\taxonomy\Entity\Vocabulary;
+use Drupal\Core\Entity\Entity\EntityViewDisplay;
+
+/**
+ * Implementation of hook_install().
+ */
+function smallads_install() {
+  //also put a term in categories so the module works off the bat
+  $properties = [
+    'name' => 'test category',
+    'description' => 'test',
+    'vid' => SMALLAD_CATEGORIES,
+    'format' => 'plain_text',
+  ];
+  Term::create($properties)->save();
+
+  //the user compact view mode exists in core, but there's no display for it.
+  /*
+  $compactDisplay = EntityViewDisplay::load('user.user.compact');
+  if (!$compactDisplay) {
+    $compactDisplay = EntityViewDisplay::Create(
+      [
+        'targetEntityType' => 'user',
+        'bundle' => 'user'
+      ]
+    );
+  }
+  //this is too compact, having no fields at all
+  $compactDisplay->setComponent('picture', ['weight' => 0])->save();
+  drupal_set_message('need to finish creating compact display? Where is it used?');
+   *
+   */
+}
+
+
+/**
+ * Implementation of hook_uninstall().
+ * @todo none of this should be necessary if the config dependencies are working
+ */
+function smallads_uninstall() {
+
+  if ($field = \Drupal\field\Entity\FieldStorageConfig::load('taxonomy_term.icon')) {
+    echo('FieldStorage for taxonomy_term.icon should have been removed by now');
+    $field->delete();
+  }
+
+  db_delete('key_value')->condition('name', 'smallad%', 'LIKE')->execute();
+  db_delete('config')->condition('name', '%smallad%', 'LIKE')->execute();
+  db_delete('config')->condition('name', 'comment.type.default')->execute();
+  db_delete('config')->condition('name', 'search.page.small_ads')->execute();
+  db_delete('config')->condition('name', 'views.view.smallads_directory')->execute();
+  db_delete('config')->condition('name', 'taxonomy.vocabulary.categories')->execute();
+  db_delete('config')->condition('name', 'taxonomy.vocabulary.categories')->execute();
+  db_delete('config')->condition('name', ['flag.flag.barter', 'flag.flag.cash', 'flag.flag.mutualcredit', 'flag.flag.goods_services'], 'IN')->execute();
+
+  drupal_flush_all_caches();
+
+}
+
+
+/*
+ * DON"T put this in hook_uninstall!
+  \Drupal::configFactory()->getEditable('core.extension')
+    ->clear("module.smallads")
+    ->save();
+ */

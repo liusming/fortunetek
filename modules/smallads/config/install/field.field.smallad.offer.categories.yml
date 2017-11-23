@@ -1,0 +1,30 @@
+uuid: 24a590f2-e423-4d68-875f-95f64fb3119d
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.smallad.categories
+    - taxonomy.vocabulary.categories
+    - smallads.type.offer
+_core:
+  default_config_hash: MxpggUVeo_Wt7cAnoV41djcD2eGBkpfXSCQU2GdWxG4
+id: smallad.offer.categories
+field_name: categories
+entity_type: smallad
+bundle: offer
+label: Categories
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      categories: categories
+    sort:
+      field: _none
+    auto_create: false
+field_type: entity_reference
+

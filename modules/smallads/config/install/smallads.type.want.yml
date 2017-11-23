@@ -1,0 +1,11 @@
+langcode: en
+status: true
+dependencies: 
+  module:
+    - smallads
+id: want
+label: Want
+label_plural: Wants
+description: 'Something you need, or want from the community'
+weight: 4
+

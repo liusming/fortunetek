@@ -1,0 +1,29 @@
+name: Small ads
+description: A simple marketplace with categories. For more options, install date popup and/or image
+# core: 8.x
+type: module
+configure: admin.smallads
+dependencies:
+dependencies:
+  - system (>=8.1.0)
+  - block
+  - color_field
+  - comment
+  - contact
+  - datetime
+  - flag
+  - image
+  - link
+  - search
+  - shs
+  - taxonomy
+  - text
+  - views
+
+
+
+# Information added by Drupal.org packaging script on 2016-06-08
+version: '8.x-1.0-alpha7'
+core: '8.x'
+project: 'smallads'
+datestamp: 1465386439

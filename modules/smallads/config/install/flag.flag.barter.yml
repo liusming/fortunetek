@@ -1,0 +1,29 @@
+uuid: 0797f8af-7fa5-4ede-9c00-e82c9f955b83
+langcode: en
+status: true
+dependencies: 
+  module:
+    - smallads
+id: barter
+label: Barter
+bundles: {  }
+entity_type: smallad
+enabled: true
+global: true
+weight: 0
+flag_short: 'Willing to barter'
+flag_long: 'Click if you are willing to barter (say with what in the description)'
+flag_message: Barter
+unflag_short: 'Unflag this item'
+unflag_long: 'Click if you are unwilling to barter '
+unflag_message: 'No barter'
+unflag_denied_text: ''
+flag_type: 'entity:smallad'
+link_type: ajax_link
+flagTypeConfig:
+  show_in_links: {  }
+  show_as_field: 1
+  show_on_form: 1
+  show_contextual_link: 0
+linkTypeConfig: {  }
+

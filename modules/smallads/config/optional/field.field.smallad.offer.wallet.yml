@@ -1,0 +1,25 @@
+uuid: 62e7d6ae-e8f7-498f-bf00-b47e0a74909a
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.smallad.wallet
+    - smallads.type.offer
+  module:
+    - mcapi
+id: smallad.offer.wallet
+field_name: wallet
+entity_type: smallad
+bundle: offer
+label: Wallet
+description: ''
+required: true
+translatable: false
+default_value: { }
+default_value_callback: ''
+settings:
+  handler: 'default:mcapi_wallet'
+  handler_settings:
+    direction: payin
+field_type: wallet_reference
+

@@ -1,0 +1,659 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: smallads\n"
+"Language: fr\n"
+
+#: smallads.module:17
+msgid "Offers and wants are organised using two vocabularies."
+msgstr "Les offres et les  demandes  utilisent deux systèmes de classement."
+
+#: smallads.module:18
+msgid "The first is like categories and subcategories in the yellow pages."
+msgstr "Le premier se présente comme les catégories et sous-catégories  des pages jaunes."
+
+#: smallads.module:19
+msgid "Create and organise your categories here:"
+msgstr "Créez et organisez vos catégories ici:"
+
+#: smallads.module:20
+msgid "Edit categories"
+msgstr "Modifier les catégories"
+
+#: smallads.module:21
+msgid "'Types' is an optional second way to find things which creates extra tabs on the listings pages."
+msgstr "\"Types\" est un classement optionel et crée des onglets sur les pages d'annonces"
+
+#: smallads.module:22
+msgid "It only works if there is more than one term in the vocabulary."
+msgstr "Ne fonctionne que s'il y a plus d'un terme dans le classement."
+
+#: smallads.module:23
+msgid "Edit types"
+msgstr "Modifier les types"
+
+#: smallads.module:24
+msgid "Here are some ideas which have been used by our community:"
+msgstr "Voici quelques idées utilisées par notre communauté :"
+
+#: smallads.module:25
+msgid "Loans - in order to foster sharing goods amongst your community members,  and encourage efficient resource use."
+msgstr "Prêts, en vue de favoriser le partage des biens dans votre communauté et d'encourager une utilisation efficace des ressources."
+
+#: smallads.module:26
+msgid "Tips - in order to allow your members to share ways on living better in your area."
+msgstr "Astuces, en vue  de permettre à vos membres d'échanger des moyens de mieux vivre dans votre région."
+
+#: smallads.module:27
+msgid "Outings - in order to allow your members to self-organise and build ties."
+msgstr "Sorties, en vue de permettre à vos membres de s'organiser entre eux et de créer des liens."
+
+#. C'est plutot: Don la traduction
+#: smallads.module:28
+#, fuzzy
+msgid "Gifts - in order to foster generosity, while publicly recognising the act."
+msgstr "Dons, en vue d'encourager la générosité et qu'elle puisse être reconnue."
+
+#: smallads.module:29
+msgid "To dos - in order to list and share the tasks linked to making your association work."
+msgstr "À faire, une liste des tâches à répartir pour le bon fonctionnement de votre association."
+
+#: smallads.module:73
+msgid "Offer/want"
+msgstr "Offre/demande"
+
+#: smallads.module:75
+msgid "Something which could meet a need in the community"
+msgstr "Quelque chose qui répond aux besoins des membres de  la communauté"
+
+#: smallads.module:77
+msgid "One line description"
+msgstr "Description en une ligne"
+
+#: smallads.module:99
+msgid "Post offers/wants"
+msgstr "Introduire offres/demandes"
+
+#: smallads.module:100
+msgid "Create and manage own offers & wants"
+msgstr "Créer et gérer ses offres et demandes"
+
+#: smallads.module:103
+msgid "Moderate offers/wants"
+msgstr "Modérer les offres et demandes"
+
+#: smallads.module:104
+msgid "Edit all offers & wants"
+msgstr "Modifier toutes les offres et demandes"
+
+#: smallads.module:107
+msgid "Configure offers & wants"
+msgstr "Configurer les offres et les demandes"
+
+#: smallads.module:108
+msgid "suitable for a sub-admin"
+msgstr "convient pour un sous-administrateur"
+
+#: smallads.module:158
+msgid "Want categories"
+msgstr "Catégories des demandes"
+
+#: smallads.module:158
+msgid "Offer categories"
+msgstr "Catégories des offres"
+
+#: smallads.module:164
+msgid "Add a want"
+msgstr "Ajouter une demande"
+
+#: smallads.module:164
+msgid "Add an offer"
+msgstr "Ajouter une offre"
+
+#: smallads.module:200;216
+msgid "I have"
+msgstr "J'offre"
+
+#: smallads.module:201;216
+msgid "I need"
+msgstr "Je demande"
+
+#: smallads.module:239
+msgid "Delete after"
+msgstr "Supprimer après"
+
+#: smallads.module:240
+msgid "Time from now after which the item will expire"
+msgstr "Délai d'expiration de l'annonce"
+
+#: smallads.module:262
+msgid "It belongs in these categories"
+msgstr "L'annonce est classée dans"
+
+#: smallads.module:381
+msgid "Offered"
+msgstr "Proposé"
+
+#: smallads.module:381
+msgid "Wanted"
+msgstr "Recherché"
+
+#: smallads.module:440 smallads/smallads.module:440
+msgid "<strong>Expiring:</strong> @date"
+msgstr "<strong>Expire le:</strong> @date"
+
+#: smallads.module:483
+msgid "Want: !title"
+msgstr "Demande: !title"
+
+#: smallads.module:483
+msgid "Offer: !title"
+msgstr "Offre : !title"
+
+#: smallads.module:536
+msgid "Your want has expired."
+msgstr "Votre demande est expirée."
+
+#: smallads.module:536
+msgid "Your offer has expired."
+msgstr "Votre offre est expirée."
+
+#: smallads.module:451
+msgid "Your post to @sitename,\n"
+"\n"
+"'@title'\n"
+"\n"
+" has been deleted."
+msgstr "Votre courrier à @sitename,\n"
+"\n"
+"'@title'\n"
+"\n"
+"a été effacé."
+
+#: smallads.module:556
+msgid "@user has commented on your @type:"
+msgstr "@user a commenté votre @type :"
+
+#: smallads.module:558
+msgid "want"
+msgstr "demande"
+
+#: smallads.module:558
+msgid "offer"
+msgstr "offre"
+
+#: smallads.module:561
+msgid "Answer by clicking on this link (you must be logged in)"
+msgstr "Répondre en cliquant sur le lien (vous devez être connecté)"
+
+#: smallads.module:569
+msgid "Enable wants in addition to offers"
+msgstr "Activer les demandes ainsi que les offres"
+
+#: smallads.module:527 smallads/smallads.module:527
+msgid "Default period before expiry"
+msgstr "Par défaut, délai d'expiration"
+
+#: smallads.module:576
+msgid "This default value of the expiry form widget"
+msgstr "Par défaut, valeur du délai d'expiration pour l'encodage du formulaire"
+
+#: smallads.module:613
+msgid "Some views respond to settings on this page, but only 'default' views."
+msgstr "Certaines vues correspondent aux paramètres de cette page, mais seulement celles par défaut."
+
+#: smallads.module:614
+msgid "'Overridden' views are not affected, but can be 'Reverted'."
+msgstr "Les vues supplantées ne sont pas affectées, mais peuvent revenir à l'original."
+
+#: smallads.module:577 smallads/smallads.module:577
+msgid "Never"
+msgstr "Jamais"
+
+#: smallads.module:578 smallads/smallads.module:578
+msgid "1 day"
+msgstr "1 jour"
+
+#: smallads.module:580
+msgid "1 week"
+msgstr "1 semaine"
+
+#: smallads.module:581
+msgid "1 month"
+msgstr "1 mois"
+
+#: smallads.module:584
+msgid "1 year"
+msgstr "1 année"
+
+#: smallads.module:731
+msgid "Continue"
+msgstr "Continuer"
+
+#: smallads.module:772
+msgid "whether wants are enabled"
+msgstr "si les demandes sont activées"
+
+#: smallads.module:39
+msgid "Offers & wants"
+msgstr "Offres et demandes"
+
+#: smallads.module:45
+msgid "Register offer"
+msgstr "Enregistrer une offre"
+
+#: smallads.module:55
+msgid "Register want"
+msgstr "Enregistrer une demande"
+
+#: smallads.install:15;427
+msgid "Offer/want types"
+msgstr "Types d'offres/demandes"
+
+#: smallads.install:19
+msgid "This vocabulary provides another dimension for dicing offers/wants."
+msgstr "Cette taxonomie fournit une autre façon de trier les offres/demandes"
+
+#: smallads.install:20
+msgid "Makes a view tab on the views pages"
+msgstr "Crée un nouvel onglet sur les pages de \"vues\""
+
+#: smallads.install:25
+msgid "Goods"
+msgstr "Biens"
+
+#: smallads.install:38
+msgid "Market sectors"
+msgstr "Système d'annonces"
+
+#: smallads.install:41
+msgid "For categorising community activities. Use like the Yellow pages"
+msgstr "Pour catégoriser les activités de la communauté.  À utiliser comme les Pages Jaunes"
+
+#: smallads.install:46
+msgid "Administration"
+msgstr "Administration"
+
+#: smallads.install:100
+msgid "The main table to hold the scheduler data."
+msgstr "La tableau principal pour la mise à jour de l'agenda."
+
+#: smallads.install:103
+msgid "The foreign key to node.nid"
+msgstr "La clé étrangère pour node.nid"
+
+#: smallads.install:115
+msgid "If this item is requested. (Default, zero is an offer)"
+msgstr "Si l'article est demandé (par défaut, zéro est une offre)"
+
+#: smallads.install:364
+msgid "Tell your story..."
+msgstr "Racontez votre histoire..."
+
+#: smallads.install:399
+msgid "Offer/want categories"
+msgstr "Catégories d'offres et de demandes"
+
+#: smallads.install:400
+msgid "Main categorisation for offers and wants"
+msgstr "Ventilation principale des offres et demandes"
+
+#: smallads.install:447
+msgid "Image"
+msgstr "Image"
+
+#: smallads.install:454
+msgid "Category"
+msgstr "Catégorie"
+
+#: smallads.install:455
+msgid "Subcategory"
+msgstr "Sous-catégorie"
+
+#: smallads.install:602
+msgid "All selections"
+msgstr "Toutes les sélections"
+
+#: smallads.info:0
+msgid "Offers & Wants"
+msgstr "Offres et Demandes"
+
+#: smallads.info:0
+msgid "A simple marketplace with 2 dimenstions of categories. For moree options, install date, date popup, image, and hierarchical select taxonomy"
+msgstr "Un système d'annonce simple avec un classement en deux dimensions. Pour plus d'options,  date d'installation, date de pop-up, image et par hiérarchie, choisissez taxonomie"
+
+#: views/smallads.views.inc:13
+msgid "Propositions"
+msgstr "Annonces"
+
+#: views/smallads.views.inc:22
+msgid "Is a want"
+msgstr "Est une demande"
+
+#: views/smallads.views.inc:29;33
+msgid "Filter by proposition direction"
+msgstr "Filtrer par \"je donne, je demande\""
+
+#: views/smallads.views_default.inc:35
+msgid "Directory of wants"
+msgstr "Répertoire des demandes"
+
+#: views/smallads.views_default.inc:35
+msgid "Directory of offers"
+msgstr "Répertoire des offres"
+
+#: views/smallads.views_default.inc:36
+msgid "Default view is autogenerated"
+msgstr "La vue par défaut est autogénérée"
+
+#: smallads.module:596 smallads_import.module:30 views/smallads.views_default.inc:46;196;202 views/views_handler_field_want.inc:8
+msgid "Wants"
+msgstr "Demandes"
+
+#: smallads.module:590 smallads_import.module:30 views/smallads.views_default.inc:46;196;202 views/views_handler_field_want.inc:8
+msgid "Offers"
+msgstr "Offres"
+
+#: smallads/views/smallads.views_default.inc:661 views/smallads.views_default.inc:661
+#, fuzzy
+msgid "No offers/wants have been entered."
+msgstr "Aucune offre/demande n'a été encodée."
+
+#: views/smallads.views_default.inc:207;299
+msgid "Latest wants"
+msgstr "Dernières demandes"
+
+#: views/smallads.views_default.inc:297;299;690
+msgid "Latest offers"
+msgstr "Dernières offres"
+
+#: views/smallads.views_default.inc:637
+msgid "My offers & wants"
+msgstr "Mes offres et demandes"
+
+#: smallads.module:427
+msgid "See more in !category"
+msgstr "Voir plus dans !category"
+
+#: smallads.module:579;580;581 smallads/smallads.module:579;580;581
+msgid "@count days"
+msgstr "@count jours"
+
+#: smallads.module:583 smallads/smallads.module:583
+msgid "@count weeks"
+msgstr "@count semaines"
+
+#: smallads.module:582;583
+msgid "@count months"
+msgstr "@count mois"
+
+#: smallads_import.module:30
+msgid "This page allows you to import users' @type for users already on the system."
+msgstr "Cette page vous permet d'importer membres @type pour les membres qui sont déjà dans le système."
+
+#: smallads_import.module:31
+msgid "There are various methods for importing nodes but this is designed to be simple simple."
+msgstr "Il existe différentes méthodes pour importer des noeuds mais celle-ci est conçue pour être très simple."
+
+#: smallads_import.module:36
+msgid "Try importing one or two first."
+msgstr "Commencez par essayer une ou deux importation(s)."
+
+#: smallads_import.module:41;15
+msgid "Import wants"
+msgstr "Importer des demandes"
+
+#: smallads_import.module:41;6
+msgid "Import offers"
+msgstr "Importer des offres"
+
+#: smallads_import.module:55
+msgid "Categories"
+msgstr "Catégories"
+
+#: smallads_import.module:56
+msgid "Types"
+msgstr "Types"
+
+#: smallads_import.module:62
+msgid "Test mode"
+msgstr "Mode test"
+
+#: smallads_import.module:114
+msgid "Test Mode in ON"
+msgstr "Le mode test est  ouvert"
+
+#: smallads_import.module:115
+msgid "The following new terms would be created: @terms"
+msgstr "Les nouveaux termes suivants devraient être créés: @terms"
+
+#: smallads_import.info:0
+msgid "Community Forge"
+msgstr "Community Forge"
+
+#: smallads_import.info:0
+msgid "Offers/wants import"
+msgstr "Importer des offres et demandes"
+
+#: smallads_import.info:0
+msgid "paste your comma separated values"
+msgstr "coller ici vos informations séparées par des virgules"
+
+#: smallads/views/smallads.views_default.inc:660 views/smallads.views_default.inc:660
+msgid "more"
+msgstr "plus"
+
+#: views/smallads.views_default.inc:688
+msgid "Category(s)"
+msgstr "Catégorie(s)"
+
+#: views/smallads.views_default.inc:689
+msgid "Offres : %1"
+msgstr "Offres : %1"
+
+#: smallads/views/smallads.views_default.inc:664 views/smallads.views_default.inc:664
+msgid "- [name]"
+msgstr "- [name]"
+
+#: smallads/views/smallads.views_default.inc:667 views/smallads.views_default.inc:667
+msgid "RSS"
+msgstr "RSS"
+
+#: views/smallads.views_default.inc:671
+msgid "Export to CSV"
+msgstr "Exporter en fichier CSV (valeurs séparées par virgules)"
+
+#: smallads.module:16
+msgid "This panel saves you digging around in Drupal by giving you easy options while managing other parts of the system."
+msgstr "Ce panneau vous évitera de fouiller dans Drupal en vous fournissant des options faciles tout en gérant d'autres parties du système."
+
+#: smallads.module:410
+msgid "Send an email to %name"
+msgstr "Envoyer un email à %name"
+
+#: smallads.module:414
+msgid "%name's @types"
+msgstr "@types de %name"
+
+#: smallads.module:418
+msgid "See %name's profile"
+msgstr "Voir le profil de %name"
+
+#: smallads.module:476
+msgid "Claim for this"
+msgstr "Enregistrer un échange à partir de cette annonce"
+
+#. J'ai observé plusieurs personnes se demander quoi c'est? Je préfère la formulation: Convertir cette annonce en échange
+#: smallads.module:476
+#, fuzzy
+msgid "Pay for this"
+msgstr "Convertir cette annonce en échange"
+
+#: smallads.module:590;596
+msgid "Conversion link path"
+msgstr "Chemin vers le lien de conversion"
+
+#: smallads.module:536 smallads/smallads.module:536
+msgid "The path to the transaction form"
+msgstr "Le chemin vers le formulaire d'échange"
+
+#: smallads_import.module:33
+msgid "Use a spreadsheet program (or views) to prepare a table with of some or all of the following headings:"
+msgstr "Utiliser un tableur (ou vues) pour préparer une table des répertoires (ou partie des répertoires) suivants :"
+
+#: smallads_import.module:35
+msgid "Open the csv file using a text editor and copy-paste below."
+msgstr "Ouvrir le fichier csv en utilisant un éditeur de texte et copier-coller ci-dessous."
+
+#: smallads_import.module:52
+msgid "Vocabulary for newly created terms"
+msgstr "Classement des termes nouvellement créés"
+
+#: smallads_import.module:88
+msgid "Unknown user in row @num: @row"
+msgstr "Utilisateur inconnu dans la rangée @num: @row"
+
+#: smallads_import.module:93
+msgid "invalid @type on row @num"
+msgstr "@type invalide dans la rangée @num"
+
+#: smallads_import.module:197
+msgid "imported @count nodes"
+msgstr "@count noeuds importés"
+
+#: smallads_import.module:210
+msgid "Number of fields does not match header in row @num"
+msgstr "Le nombre de champs ne correspond pas à l'en-tête dans la rangée @num"
+
+#: smallads.install:109
+msgid "When, if ever the proposition is valid until"
+msgstr "Quand, si jamais la proposition est valide jusque"
+
+#: views/smallads.views.inc:23
+msgid "Shows a 1"
+msgstr "Montre un 1"
+
+#: views/smallads.views.inc:38
+msgid "Expiry date"
+msgstr "Date d'expiration"
+
+#: views/smallads.views.inc:39
+msgid "When the proposition will expire"
+msgstr "Quand la proposition expirera"
+
+#: smallads.module:538
+msgid "Your post to @sitename,\n"
+"\n"
+"'@title'\n"
+"\n"
+" has been unpublished."
+msgstr "Votre publication sur @sitename,\n"
+"\n"
+" '@title' \n"
+"\n"
+"a été désactivée."
+
+#: views/smallads.views_default.inc:691
+msgid "Upcoming needs"
+msgstr "Demandes urgentes"
+
+#: smallads_import.module:113
+msgid "Submission blocked: Test Mode in ON"
+msgstr "Votre soumission a été bloquée car vous êtes en mode TEST"
+
+#: smallads.module:290;305
+msgid "Save and unpublish"
+msgstr "Enregistrer et ne pas publier"
+
+#: smallads.module:297;309
+msgid "Save and publish"
+msgstr "Enregistrer et publier"
+
+#: smallads.install:607
+msgid "Default"
+msgstr "Par défaut"
+
+#: smallads.install:596
+msgid "Choose a category (required)"
+msgstr "Choisir une catégorie (requis)"
+
+#: smallads.install:597
+msgid "Sub-category"
+msgstr "Sous-catégorie"
+
+#: views/smallads.views.inc:25
+msgid "Shows a 1 or not, can be used to group tables"
+msgstr "Montre un 1 ou pas, peut être utilisé pour des tables de groupes"
+
+#: smallads.module:466
+msgid "Expiring:"
+msgstr "Expire le:"
+
+#: smallads.module:575
+msgid "Default expiry date on propositions"
+msgstr "Expiration par défaut des annonces"
+
+#: smallads.module:578
+msgid "3 months"
+msgstr "3 mois"
+
+#: smallads.module:579
+msgid "6 months"
+msgstr "6 mois"
+
+#: smallads.module:591
+msgid "Path to a 1st party transaction form with direction field either showing or preset to 'incoming'"
+msgstr "Chemin vers un formulaire de transaction first party' avec le champ du sens de la transaction, affichant ou pré-configuré à 'entrant'"
+
+#: smallads.module:593
+msgid "The path to the transaction form. This form MUST have the direction widget visible!"
+msgstr "Le chemin du formulaire de transaction. Ce formulaire DOIT avoir l'élément graphique du sens visibile!"
+
+#: smallads.module:545
+msgid "proposition expiry"
+msgstr "expiration de l'annonce"
+
+#: smallads.module:545
+msgid "cron expired proposition @nid and notified @mail"
+msgstr "le cron a fait expirer l'annonce @nid et a averti @mail"
+
+#: views/smallads.views_default.inc:686
+msgid "No wants have been entered."
+msgstr "Aucune demande n'a encore été introduite."
+
+#: views/smallads.views_default.inc:687
+msgid "No offers have been entered."
+msgstr "Aucune offre n'a encore été introduite."
+
+#: smallads.module:597
+msgid "Path to a 1st party transaction form with direction field either showing or preset to 'outgoing'"
+msgstr "Chemin vers un formulaire de transaction de type 'first party' avec un direction d'échange soit donnant le choix soit configuré vers le paiement."
+
+#: smallads.install:601
+msgid "Your comment will be mailed instantly to the author of the ad."
+msgstr "Votre commentaire sera envoyé immédiatement à l'auteur de l'annonce."
+
+#: views/smallads.views_default.inc:692
+msgid "Member"
+msgstr "Membre"
+
+#. DON'T translate inside the square brackets! These are views tokens.
+#: views/smallads.views_default.inc:693
+msgid "[name] needs [title] before [end]"
+msgstr "[name] a besoin de [title] avant [end]"
+
+#: smallads.install:598
+msgid "Your comment will be mailed instantly to the author of the ad"
+msgstr "Votre commentaire va être envoyé directement à l'auteur de l'annonce"
+
+#: 
+msgid "Your proposition is hidden from everybody else."
+msgstr "Votre annonce est cachée pour toute personne autre que vous."
+
+#: 
+msgid "Your proposition is visible to everybody else."
+msgstr "Votre annonce est visible par tous."
+

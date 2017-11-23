@@ -1,0 +1,15 @@
+name: Small ads import from csv
+description: Import offers and wants from a simple csv file
+# core: 8.x
+type: module
+configure: smallads.import
+dependencies:
+  - smallads
+
+
+
+# Information added by Drupal.org packaging script on 2016-06-08
+version: '8.x-1.0-alpha7'
+core: '8.x'
+project: 'smallads'
+datestamp: 1465386439

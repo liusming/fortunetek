@@ -1,0 +1,327 @@
+<?php
+// $Id:
+
+/*
+ * Provides an entity for users to post generic adverts to each other
+ * The module is designed to be ready to go and yet have some useful options
+ * so there is some tight control over some things expecially taxonomy and
+ * views and menu items
+ * Each ad has a visibility scope and an expiry date. After the expiry date the ad
+ * reverts to private scope where only the owner and permitted users can see it
+ */
+
+use Drupal\smallads\Entity\Smallad;
+use Drupal\views\Entity\View;
+use Drupal\Core\Url;
+use Drupal\Core\Render\Element;
+
+/**
+ * name of vocab created by this module
+ */
+const SMALLAD_CATEGORIES = 'categories';
+
+/**
+ * Implements hook_help().
+ */
+function hook_help($route_name) {
+  if ($route_name == 'admin.smallad') {
+    $help[] = t('Ads are organised using two vocabularies.');
+    $help[] = t('The first is like categories and subcategories in the yellow pages.');
+    $help[] = t('Create and organise your categories here:');
+    $help[] = '<br /><strong>'. l(t('Edit categories'), Url::fromRoute('entity.taxonomy_vocabulary.overview_form', ['taxonomy_vocabulary' => 'categories'])) . '</strong>';
+    $help[] = '<p>'.t("'The optional second way to find things creates extra tabs on the listings pages.");
+    $help[] = '<br /><strong>'. l(t('Edit types'), 'admin/structure/taxonomy/smallads_types') .'</strong></p>';
+    $help[] = t('A third vocabluary, types, should be treated like a content type e.g. offers, wants, notices.');
+    return implode(' ', $help);
+  }
+}
+
+/**
+ * Implements hook_ENTITY_TYPE_insert() for comment entities.
+ * notify the owner of the ad that a comment has been added and reindex search
+ * @todo this notifying should be done with rules module
+ * @todo this should be a rule, preconfigured
+ */
+function smallads_comment_insert($comment) {
+  if ($comment->getCommentedEntityTypeId() == 'smallad') {
+    if (0 && $smallad = $comment->getCommentedEntity()) { //on occaision this seems to be empty
+      \Drupal::service('plugin.manager.mail')->mail(
+        'smallads',
+        'comment',
+        $smallad->getOwner()->getEmail(),
+        $smallad->getOwner()->getPreferredLangcode(),
+        [
+          'comment' => $comment,
+          'smallad' => $smallad,
+          'user' => $smallad->getOwner()
+        ]
+      );
+    }
+    smallads_reindex_search($comment);
+  }
+}
+function smallads_comment_update($comment) {
+  smallads_reindex_search($comment);
+}
+function smallads_comment_delete($comment) {
+  smallads_reindex_search($comment);
+}
+
+/**
+ * Marks a node to be re-indexed by the node_search plugin.
+ * How does the node module do this?
+ * @param EntityInterface $comment
+ */
+function smallads_reindex_search(Drupal\comment\CommentInterface $comment) {
+  if ($comment->getCommentedEntityTypeId() == 'smallad') {
+    if (\Drupal::moduleHandler()->moduleExists('search')) {
+      search_mark_for_reindex('smallad_search', 'smallad');
+    }
+  }
+}
+
+/**
+ * Implements hook_ENTITY_TYPE_view().
+ * render the contact extrafield
+ */
+function smallads_smallad_view(array &$build, $smallad, $display, $view_mode) {
+  $build['contact'] = [
+    '#type' => 'link',
+    '#title' => t('Contact %name',  ['%name' => $smallad->getOwner()->label()]),
+    '#url' => Url::fromRoute('entity.user.contact_form', ['user' => $smallad->getOwnerId()]),
+    '#options' => [
+      'attributes' => ['class' => ['smallad-contact']]
+    ]
+  ];
+  if ($display->getComponent('links')) {
+    //abstract this into another function just because it is big
+    smallad_add_links($build, $smallad);
+  }
+  if ($display->getComponent('scope')) {
+    $build['scope'] = [
+      '#theme' => 'item',
+      '#title' => t('Scope'),
+      '#value' =>  Smallad::getScopes()[$build['#smallad']->scope->value]
+    ];
+  }
+  if ($display->getComponent('comment_count')) {
+    $count = isset($vars['elements']['comments']) ? count( Element::children($vars['elements']['comments'])) : 0;
+    $build['comment_count']['#markup'] = t('@count comments', ['@count' => $count]);
+  }
+  $build['#attributes']['class'][]= 'smallad';
+  $build['#attributes']['class'][]= 'smallad--type-'.$smallad->type->target_id;
+  $build['#attributes']['class'][]= 'smallad--view-mode-'.$view_mode;
+
+
+}
+/*
+ * helper
+ */
+function smallad_add_links(&$build, $smallad) {
+  $build['links']['#theme'] = 'links';
+  $build['links']['#links'] = [];
+  $links = &$build['links']['#links'];
+  //the smallads_directory is saved with this modules and shows smallad pages by category
+  //It has offers and wants built in, but in case of other ad-types without
+  //a corresponding display in that view, they will default to the offer display
+  $type_id = $smallad->type->target_id;
+  if (!View::load('smallads_directory')->getDisplay('page_list')) {
+    Drupal::logger('smallads')
+      ->log(
+        \Drupal\Core\Logger\RfcLogLevel::CRITICAL,
+        'smallads_directory view display needed for smallad_type @type',
+        ['@type' => $type_id]
+      );
+  }
+  if ($smallad->hasField(SMALLAD_CATEGORIES)) {
+    foreach ($smallad->{SMALLAD_CATEGORIES}->referencedEntities() as $taxonomy_term) {
+      $links[] = [
+        'title' => t(
+          'See more @types in @category',
+          [
+            '@category' => $taxonomy_term->label(),
+            '@type' => $smallad->type->entity->label()
+          ]
+        ),
+        'url' => \Drupal\Core\Url::fromRoute(
+          'view.smallads_directory.page_list',//this route is from a view included in this module
+          [
+            'type' => $smallad->type->target_id,
+            SMALLAD_CATEGORIES.'_target_id' => $taxonomy_term->id()
+          ]
+        )
+      ];
+    }
+  }
+  $links[] = [
+    'title' => t(
+      "See @name's profile",
+      ['@name' => $smallad->getOwner()->label()]
+    ),
+    'url' => \Drupal\Core\Url::fromRoute(
+      'entity.user.canonical',
+      ['user' => $smallad->getOwnerId()]
+    )
+  ];
+  $links[] = [
+    'title' => t(
+      "See @name's @types",
+      ['@name' => $smallad->getOwner()->label(), '@type' => $smallad->type->entity->label()]
+    ),
+    'url' => \Drupal\Core\Url::fromRoute(
+      'view.smallads_user.page_1', //see config views.view.smallads_user
+      ['user' => $smallad->getOwnerId()]
+    )
+  ];
+}
+
+/*
+ * Implements hook_theme
+ */
+function smallads_theme() {
+  $items['smallad'] = [
+    'render element' => 'elements'
+  ];
+  $items['smallad_listing'] = [
+    'render element' => 'elements'
+  ];
+  return $items;
+}
+
+/**
+ * default theme preprocessor for 'smallad'
+ */
+function template_preprocess_smallad(&$vars) {
+  $build = &$vars['elements'];
+    //make all the ad fields separate $vars
+  foreach (Element::Children($build) as $key) {
+    $element = $build[$key];
+    $vars[$key] = $element;
+  }
+}
+/**
+ * default theme preprocessor for 'smallad_contact'
+ */
+function template_preprocess_smallad_listing(&$vars) {
+  //only show the first image
+  foreach (Element::children($vars['elements']['image']) as $delta) {
+    if ($delta) {
+      unset($vars['elements']['image'][$delta]);
+    }
+  }
+  template_preprocess_smallad($vars, FALSE);
+  $vars['more'] = $vars['elements']['#smallad']->link(t('More...'));
+  $vars['title'] = $vars['elements']['#smallad']->title->value;
+
+}
+
+
+/*
+ * Implements hook_cron
+ * Manage proposition expiry and notifications
+ * There is no log kept for notifications sent
+ * Rather, it checks if any notifications have come due since the previous cron run
+ * @todo explore core for better ways of advance warnings of expiries
+ */
+function smallads_cron() {
+  //automatic expiry of nodes, notifies the owner
+  //find out how to filter by relative dates
+  $smids = \Drupal::service('entity.query')
+    ->get('smallad')
+    ->condition('expires',  gmdate(DATETIME_DATETIME_STORAGE_FORMAT, REQUEST_TIME), '<')//actually the date is stored as dd-mm-yyyy
+    ->condition('scope', 0, '>')
+    ->execute();
+
+  if (count($smids)) {
+    $queue = \Drupal::queue('smallads_expired_mail');
+    foreach (SmallAd::loadMultiple($smids) as $ad) {
+      $queue->createItem($ad->id());
+    }
+  }
+}
+
+/**
+ * Implements hook_mail();
+ */
+function smallads_mail($key, &$message, $params) {
+  switch ($key) {
+    case 'expired':
+      $message['subject'] = t(
+        'Your @type has expired',
+        ['@type' => strtolower($params['ad']->type->entity->label())]
+      );
+      $message['body'][] = $params['ad']->getOwner()->label().',';
+      $message['body'][] = t(
+        "Your post to @sitename,\n\n'@title'\n\n has been unpublished.",
+        [
+          '@sitename' => \Drupal::config('system.site')->get('name'),
+          '@title' => $params['ad']->getLabel()
+        ]
+      );
+      \Drupal::logger('smallads')->info(
+        'cron expired ad @id and notified !user (@uid) at @mail',
+        [
+//          '@id' => $params['ad']->id(),
+          '@id' => l($params['ad']->id(), Url::fromRoute('entity.smallad.canonical', ['smallad' => $params['ad']->id()])),
+          '%user' => $params['ad']->getOwner()->getDisplayName(),
+          '@uid' => $params['ad']->getOwner()->id(),
+          '@mail' => $params['ad']->getowner()->getEmail()
+        ]
+      );
+      break;
+  }
+}
+
+/**
+ * sometimes we need to know for any page, whether the context indicates an ad-type
+ */
+function smallad_type_from_route_match() {
+  $route_params = \Drupal::service('current_route_match')->getparameters();
+  if ($route_params->has('smallad')) {
+    return $route_params->get('smallad')->id();
+  }
+  elseif($route_params->has('view_id')) {//doesn't seem very likely
+    return $route_params->get('arg_0');
+  }
+  elseif ($route_params->has('smallad_type')) {
+    //or could find it in the raw parameters
+    return $route_params->get('smallad_type')->id();
+  }
+}
+
+
+/**
+ * Implements hook_entity_extra_field_info().
+ */
+function smallads_entity_extra_field_info() {
+  $smallad = [];
+  foreach (\Drupal::entityManager()->getStorage('smallad_type')->loadMultiple() as $name => $type) {
+    $smallad[$name] = [
+      'display' => [
+        'links' => [
+          'label' => t('Links'),
+          'description' => t("Links to related ads, duplicates categories field"),
+          'weight' => 6,
+        ],
+        'scope' => [
+          'label' => t('Scope'),
+          'description' => t("How widely this ad is visible"),
+          'weight' => 8,
+        ],
+        'comment_count' => [
+          'label' => t('Comment count'),
+          'description' => t("The number of comments on the article"),
+          'weight' => 8,
+        ]
+      ]
+    ];
+  }
+  return ['smallad' => $smallad];
+}
+
+/**
+ * implement hook_views_pre_render().
+ */
+function smallads_views_pre_render($view) {
+   $view->element['#attached']['library'][] = 'smallads/css';
+}

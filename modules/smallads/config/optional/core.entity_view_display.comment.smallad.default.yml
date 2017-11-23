@@ -1,0 +1,25 @@
+langcode: en
+status: true
+dependencies:
+  config:
+    - comment.type.smallad
+    - field.field.comment.smallad.comment_body
+  module:
+    - text
+id: comment.smallad.default
+targetEntityType: comment
+bundle: smallad
+mode: default
+content:
+  comment_body:
+    type: text_default
+    weight: 0
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+  links:
+    weight: 1
+    settings: {  }
+    third_party_settings: {  }
+hidden: {  }
+

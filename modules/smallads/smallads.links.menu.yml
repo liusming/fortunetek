@@ -1,0 +1,16 @@
+smallads_type.admin:
+  title: Small ads
+  route_name: entity.smallad_type.collection
+  parent: system.admin_structure
+  weight: 5
+
+smallads.admin:
+  title: Small ads
+  description: 'List and edit small ads'
+  route_name: view.smallads_directory.collection
+  parent: system.admin_content
+
+smallads.autolinks:
+  class: \Drupal\Core\Menu\MenuLinkDefault
+  deriver: \Drupal\smallads\Plugin\Derivative\SmallAdMenuLink
+

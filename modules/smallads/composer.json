@@ -1,0 +1,19 @@
+{
+  "name": "drupal/smallads",
+  "description": "Small ads",
+  "type": "drupal-module",
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/smallads",
+  "minimum-stability": "dev",
+  "authors": [
+    {
+      "name": "Matthew Slater",
+      "email": "matslats@fastmail.com",
+      "homepage": "http://matslats.net",
+      "role": "Maintainer"
+    }
+  ],
+  "require": [
+  ]
+}
+

@@ -1,0 +1,635 @@
+# $Id$
+#
+# Portuguese, Portugal translation of Drupal (general)
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+# Generated from files:
+#  node-proposition.tpl.php: n/a
+#  views/smallads.views.inc: n/a
+#  smallads.module,v 1.9 2010/10/02 15:54:27 matslats
+#  mc_offer_want.module,v 1.9 2010/10/02 15:54:27 matslats
+#  smallads.install,v 1.3 2010/05/01 15:52:49 matslats
+#  smallads.info: n/a
+#  smallads_import.info: n/a
+#  views/views_handler_field_ow_want.inc: n/a
+#  views_plugin_display_feed.inc,v 1.7 2009/09/15 22:20:01 merlinofchaos
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2012-06-13 23:33+0100\n"
+"PO-Revision-Date: 2012-06-13 23:33+0100\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Portuguese, Portugal <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+#: node-proposition.tpl.php:60 views/smallads.views.inc:80
+msgid "Want"
+msgstr ""
+
+#: node-proposition.tpl.php:60 views/smallads.views.inc:77
+msgid "Offer"
+msgstr ""
+
+#: node-proposition.tpl.php:67
+msgid "Expires:"
+msgstr ""
+
+#: smallads.module:17
+msgid "This panel saves you digging around in Drupal by giving you easy options while managing other parts of the system."
+msgstr ""
+
+#: smallads.module:18
+msgid "Offers and wants are organised using two vocabularies."
+msgstr ""
+
+#: smallads.module:19
+msgid "The first is like categories and subcategories in the yellow pages. Create and organise your categories here:"
+msgstr ""
+
+#: smallads.module:20
+msgid "Edit categories"
+msgstr ""
+
+#: smallads.module:21
+msgid "Proposition Types is a second, optional way to find things."
+msgstr ""
+
+#: smallads.module:23
+msgid "Here are some ideas which have been used by our community:"
+msgstr ""
+
+#: smallads.module:24
+msgid "Loans - in order to foster sharing goods amongst your community members,  and encourage efficient resource use."
+msgstr ""
+
+#: smallads.module:25
+msgid "Tips - in order to allow your members to share ways on living better in your area."
+msgstr ""
+
+#: smallads.module:26
+msgid "Outings - in order to allow your members to self-organise and build ties."
+msgstr ""
+
+#: smallads.module:27
+msgid "Gifts - in order to foster generosity, while publicly recognising the act."
+msgstr ""
+
+#: smallads.module:28
+msgid "To dos - in order to list and share the tasks linked to making your association work."
+msgstr ""
+
+#: smallads.module:29
+msgid "We encourge you to experiment, and tell us about it."
+msgstr ""
+
+#: smallads.module:30
+msgid "Edit types"
+msgstr ""
+
+#: smallads.module:77
+msgid "Proposition"
+msgstr "Oferta/Procura"
+
+#: smallads.module:79
+msgid "Something which could meet a need in the community"
+msgstr ""
+
+#: smallads.module:81
+msgid "Brief description"
+msgstr ""
+
+#: smallads.module:83
+msgid "More information"
+msgstr "Mais informações"
+
+#: smallads.module:146
+msgid "Want categories"
+msgstr ""
+
+#: smallads.module:146
+msgid "Offer categories"
+msgstr ""
+
+#: smallads.module:152
+msgid "Post offer/want"
+msgstr "Adicionar oferta/procura"
+
+#: smallads.module:168;198;213
+msgid "I would like to request"
+msgstr "Procuro"
+
+#: smallads.module:168;197;213
+msgid "I would like to offer"
+msgstr "Gostaria de oferecer"
+
+#: smallads.module:246
+msgid "Stop displaying this proposition on (date)"
+msgstr "Cessar a mostra desta oferta/procura na (data):"
+
+#: smallads.module:247
+msgid "leave blank to make your proposition permanent"
+msgstr "Deixe em branco tornando a oferta/procura permenente"
+
+#: smallads.module:262
+msgid "Notify all @role users"
+msgstr ""
+
+#: smallads.module:287
+msgid "Expiry date must be after today"
+msgstr ""
+
+#: smallads.module:291
+msgid "The proposition will expire in @days days"
+msgstr ""
+
+#: smallads.module:387
+msgid "It belongs in these categories"
+msgstr "Nas categorías"
+
+#: smallads.module:400
+msgid "Disabled field. See !link"
+msgstr ""
+
+#: smallads.module:402
+msgid "Enable and disable the field at !link"
+msgstr ""
+
+#: smallads.module:412
+msgid "Selected categories"
+msgstr "Categorías seleccionadas"
+
+#: smallads.module:417
+msgid "Add"
+msgstr "Adicionar"
+
+#: smallads.module:463
+msgid "Main vocabulary for 'proposition' categories"
+msgstr ""
+
+#: smallads.module:464
+msgid "This vocabulary cannot be deleted."
+msgstr ""
+
+#: smallads.module:479
+msgid "Extra fields"
+msgstr ""
+
+#: smallads.module:480
+msgid "Propositions have optional properties to help identify them more clearly. Use more properties for larger systems, as well as increasing the granularity in the vocabulary."
+msgstr ""
+
+#: smallads.module:481
+msgid "Enabling too many of these properties will make the user experience cumbersome."
+msgstr ""
+
+#: smallads.module:484
+msgid "Enable 'details' field"
+msgstr ""
+
+#: smallads.module:490
+msgid "Enable wants in addition to offers"
+msgstr ""
+
+#: smallads.module:497
+msgid "Enable comments on propositions"
+msgstr ""
+
+#: smallads.module:507
+msgid "Proposition expiry"
+msgstr ""
+
+#: smallads.module:509
+msgid "Send reminders before propositions expire"
+msgstr ""
+
+#: smallads.module:513
+msgid "Enable expiry dates"
+msgstr ""
+
+#: smallads.module:514
+msgid "Propositions are automatically unpublished when they expire, and can be seen only by the owner and admin."
+msgstr ""
+
+#: smallads.module:520
+msgid "Default period for trade notices"
+msgstr ""
+
+#: smallads.module:527
+msgid "Number of days before expiry to send reminder mail"
+msgstr ""
+
+#: smallads.module:533;540
+msgid "Mail template"
+msgstr ""
+
+#: smallads.module:534;541
+msgid "Use the following tokens:"
+msgstr ""
+
+#: smallads.module:548
+msgid "Don't send"
+msgstr ""
+
+#: smallads.module:555
+msgid "If a proposition is urgent, users may check this box to mail all users with this role."
+msgstr ""
+
+#: smallads.module:556
+msgid "N.B. This will send all the mails at the same time. A slow web server or a large list may not send all mails before the page request times out."
+msgstr ""
+
+#: smallads.module:559
+msgid "Broadcast"
+msgstr ""
+
+#: smallads.module:575
+msgid "Leave 'types' blank or put at least 2 types are required, separated by pipes."
+msgstr ""
+
+#: smallads.module:596
+msgid "Some views respond to settings on this page, but only 'default' views."
+msgstr ""
+
+#: smallads.module:597
+msgid "'Overridden' views are not affected, but can be 'Reverted'."
+msgstr ""
+
+#: smallads.module:616
+msgid "Permanent"
+msgstr "Permanente"
+
+#: smallads.module:617
+msgid "1 week"
+msgstr "1 semana"
+
+#: smallads.module:618
+msgid "2 weeks"
+msgstr ""
+
+#: smallads.module:619
+msgid "1 month"
+msgstr ""
+
+#: smallads.module:620
+msgid "2 months"
+msgstr ""
+
+#: smallads.module:621
+msgid "3 months"
+msgstr ""
+
+#: smallads.module:622
+msgid "6 months"
+msgstr ""
+
+#: smallads.module:623
+msgid "1 year"
+msgstr "1 ano"
+
+#: smallads.module:718
+msgid "Other propositions from %name"
+msgstr ""
+
+#: smallads.module:724
+msgid "Send an email to %name"
+msgstr ""
+
+#: smallads.module:728
+msgid "See %name's profile"
+msgstr ""
+
+#: smallads.module:743
+msgid "See more in category @name"
+msgstr ""
+
+#: smallads.module:753
+msgid "See more of type @name"
+msgstr ""
+
+#: smallads.module:795
+msgid "Continue"
+msgstr "Continuar"
+
+#: smallads.module:833
+msgid "An html table sent direct to the browser"
+msgstr ""
+
+#: smallads.module:903
+msgid "Your proposition is about to expire"
+msgstr ""
+
+#: smallads.module:904
+msgid "Dear !username\n\nYour have a proposition which will expire in !days days\n\n\"!title\"\n\nIf you do nothing it will disappear\n\nTo refresh it, just alter the expiry date at\n!link_url\n\nThe team at !site"
+msgstr ""
+
+#: smallads.module:947;950
+msgid "Urgent proposition from @name"
+msgstr ""
+
+#: smallads.module:948
+msgid "Want:"
+msgstr ""
+
+#: smallads.module:948
+msgid "Offer:"
+msgstr ""
+
+#: smallads.module:956
+msgid "@user has commented on your proposition:"
+msgstr ""
+
+#: smallads.module:958
+msgid "Answer by clicking on this link (you must be logged in)"
+msgstr ""
+
+#: smallads.module:100
+msgid "post propositions"
+msgstr ""
+
+#: smallads.module:100
+msgid "view propositions"
+msgstr ""
+
+#: smallads.module:43
+msgid "Offers and wants controls"
+msgstr ""
+
+#: smallads.module:49
+msgid "Create offer proposition"
+msgstr ""
+
+#: smallads.module:59
+msgid "Create request propositions"
+msgstr ""
+
+#: smallads_import.module:10
+msgid "Defines two contentTypes which are created and edited by each user and which are presented as a directory categorised using taxonomy."
+msgstr ""
+
+#: smallads_import.module:89
+msgid "This page allows you to import users' @type for users already on the system."
+msgstr ""
+
+#: smallads_import.module:90
+msgid "There are other ways of doing this, but this is simple and maintained along with the rest of the marketplace module."
+msgstr ""
+
+#: smallads_import.module:92
+msgid "Use a spreadsheet tool to prepare a list of user ids, or names, and their @type in one line. "
+msgstr ""
+
+#: smallads_import.module:93
+msgid "For aesthetic reasons, there is a 128 character limit on each description. "
+msgstr ""
+
+#: smallads_import.module:94
+msgid "Each line should look like this (you must include the header row): !code"
+msgstr ""
+
+#: smallads_import.module:95
+msgid "Try importing one or two first."
+msgstr ""
+
+#: smallads_import.module:104
+msgid "The description on line @rownum is more than 128 characters: @string"
+msgstr ""
+
+#: smallads.install:195
+msgid "boolean undefined property"
+msgstr ""
+
+#: smallads.install:363 views/smallads.views.inc:546;1085
+msgid "Category"
+msgstr "Categoria"
+
+#: smallads.install:364
+msgid "Subcategory"
+msgstr ""
+
+#: smallads.install:369
+msgid "All selections"
+msgstr "Todas as seleções"
+
+#: smallads.install:390
+msgid "Proposition categories"
+msgstr ""
+
+#: smallads.install:391
+msgid "This vocabulary is for categorising activities people do in their community. It can be used like the 'yellow pages' to help locate goods and services, but can also be used later on, for monitoring purposes."
+msgstr ""
+
+#: smallads.install:392
+msgid "Choose one or more categories"
+msgstr ""
+
+#: smallads.install:410
+msgid "Proposition types"
+msgstr ""
+
+#: smallads.install:411
+msgid "This vocabulary provides an extra dimension to your offers and wants. When it has more than one term, it shows as tabs on the views pages"
+msgstr ""
+
+#: smallads.install:412
+msgid "Choose one or more types"
+msgstr ""
+
+#: smallads.info:0
+msgid "Offers & wants"
+msgstr ""
+
+#: smallads.info:0
+msgid "Small ads with 2 dimensions of categories, views and blocks"
+msgstr ""
+
+#: smallads.info:0 smallads_import.info:0
+msgid "Local communities"
+msgstr ""
+
+#: smallads_import.info:0
+msgid "Offers/wants import"
+msgstr ""
+
+#: smallads_import.info:0
+msgid "paste your comma separated values"
+msgstr ""
+
+#: views/smallads.views.inc:27;1297
+msgid "Propositions"
+msgstr "Ofertas/procuras"
+
+#: views/smallads.views.inc:35;195;582;730;935;1117
+msgid "Expires"
+msgstr "Expira"
+
+#: views/smallads.views.inc:36
+msgid "Date that the proposition is schedules to be unpublished"
+msgstr ""
+
+#: views/smallads.views.inc:49
+msgid "Is a want"
+msgstr ""
+
+#: views/smallads.views.inc:50
+msgid "Show a 1"
+msgstr ""
+
+#: views/smallads.views.inc:55
+msgid "Filter by proposition direction"
+msgstr ""
+
+#: views/smallads.views.inc:60
+msgid "Is time limited"
+msgstr ""
+
+#: views/smallads.views.inc:61
+msgid "Show only temporary or permanent propositions"
+msgstr ""
+
+#: views/smallads.views.inc:77 views/views_handler_field_ow_want.inc:8
+msgid "Offers"
+msgstr "Ofertas"
+
+#: views/smallads.views.inc:80 views/views_handler_field_ow_want.inc:8
+msgid "Wants"
+msgstr "Procuras"
+
+#: views/smallads.views.inc:134;339
+msgid "@prop directory"
+msgstr ""
+
+#: views/smallads.views.inc:144
+msgid "Title, click for more"
+msgstr ""
+
+#: views/smallads.views.inc:156;914
+msgid "Member"
+msgstr ""
+
+#: views/smallads.views.inc:165;718;923
+msgid "Locality"
+msgstr "Locale"
+
+#: views/smallads.views.inc:177;564;1101
+msgid "Type"
+msgstr "Tipo"
+
+#: views/smallads.views.inc:343
+msgid "There are no propositions in this category"
+msgstr " De momento não existem ofertas/procuras nesta categoria"
+
+#: views/smallads.views.inc:381
+msgid "All"
+msgstr "Todos"
+
+#: views/smallads.views.inc:424
+msgid "Latest @types"
+msgstr ""
+
+#: views/smallads.views.inc:440
+msgid "Latest @proptitle"
+msgstr ""
+
+#: views/smallads.views.inc:663;1073
+msgid "Description"
+msgstr "Descrição"
+
+#: views/smallads.views.inc:706
+msgid "Telephone"
+msgstr "Telefone"
+
+#: views/smallads.views.inc:902
+msgid "Title, click for details"
+msgstr ""
+
+#: views/smallads.views.inc:1144
+msgid "Edit"
+msgstr "Editar"
+
+#: views/smallads.views.inc:1156
+msgid "delete"
+msgstr "eliminar"
+
+#: views/smallads.views.inc:1292
+msgid "No offers have been entered."
+msgstr ""
+#: views/smallads.views.inc:1292
+msgid "No wants have been entered."
+msgstr ""
+
+#: views/smallads.views_default.inc:98
+msgid "No offers/wants have been entered."
+msgstr ""
+
+#: views/smallads.views.inc:1312
+msgid "Expired"
+msgstr "Expirado"
+
+#: views/smallads.views.inc:1377
+msgid "Expired propositions"
+msgstr ""
+
+#: views/smallads.views.inc:1378
+msgid "The following propositions have expired and are not visible to other users. To re-enable them, simply edit and save them."
+msgstr ""
+
+#: views/smallads.views.inc:1394
+msgid "Propositions about to expire"
+msgstr ""
+
+#: views/views_plugin_display_print_table.inc:46
+msgid "Printed on @date"
+msgstr ""
+
+#: views/views_plugin_display_print_table.inc:86
+msgid "Print-page settings"
+msgstr ""
+
+#: views/views_plugin_display_print_table.inc:93
+msgid "Multiple displays"
+msgstr "Múltiplas vistas"
+
+#: views/views_plugin_display_print_table.inc:103
+msgid "None"
+msgstr "Nenhum"
+
+#: views/views_plugin_display_print_table.inc:108;126
+msgid "Attach to"
+msgstr "Anexar a"
+
+#: views/views_plugin_display_print_table.inc:113;142
+msgid "Position"
+msgstr "Posição"
+
+#: views/views_plugin_display_print_table.inc:135
+msgid "The feed icon will be available only to the selected displays."
+msgstr ""
+
+#: views/views_plugin_display_print_table.inc:145
+msgid "Attach before or after the parent display?"
+msgstr ""
+
+#: views/views_plugin_display_print_table.inc:151
+msgid "This view will be displayed by visiting this path on your site. It is recommended that the path be something like \"path/%/%/feed\" or \"path/%/%/rss.xml\", putting one % in the path for each argument you have defined in the view."
+msgstr ""
+
+#: views/views_plugin_display_print_table.inc:172
+msgid "Before"
+msgstr "Antes"
+
+#: views/views_plugin_display_print_table.inc:173
+msgid "After"
+msgstr "Depois"
+
+#: views/views_plugin_display_print_table.inc:174
+msgid "Both"
+msgstr "Ambos"
+
+#: views/views_plugin_display_print_table.inc:201
+msgid "Printer-friendly version"
+msgstr "Versão de impressão"
+

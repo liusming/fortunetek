@@ -1,0 +1,29 @@
+uuid: 665fa8c2-a952-4b10-b807-7cadb11bee4b
+langcode: en
+status: true
+dependencies: 
+  module:
+    - smallads
+id: cash
+label: Cash
+bundles: {  }
+entity_type: smallad
+enabled: true
+global: true
+weight: 0
+flag_short: 'Costs not included'
+flag_long: 'Click if the buyer will cover monetary cost'
+flag_message: 'Cash costs'
+unflag_short: Not
+unflag_long: 'Click if no money will be involved'
+unflag_message: 'No cash cost'
+unflag_denied_text: ''
+flag_type: 'entity:smallad'
+link_type: ajax_link
+flagTypeConfig:
+  show_in_links: {  }
+  show_as_field: 1
+  show_on_form: 1
+  show_contextual_link: 0
+linkTypeConfig: {  }
+

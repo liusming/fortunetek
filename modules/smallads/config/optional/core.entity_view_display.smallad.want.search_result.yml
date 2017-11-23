@@ -1,0 +1,44 @@
+uuid: 0bba870c-317a-46c4-8900-dc7c1917df98
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.smallad.search_result
+    - field.field.smallad.want.categories
+  module:
+    - smallads
+    - user
+id: smallad.want.search_result
+targetEntityType: smallad
+bundle: want
+mode: search_result
+content:
+  body:
+    type: basic_string
+    weight: 0
+    settings: {  }
+    third_party_settings: {  }
+    label: hidden
+  changed:
+    type: timestamp_ago
+    weight: 4
+    settings: {  }
+    third_party_settings: {  }
+    label: inline
+  categories:
+    type: entity_reference_label
+    weight: 1
+    settings:
+      link: true
+    third_party_settings: {  }
+    label: hidden
+  uid:
+    type: author
+    weight: 2
+    settings: {  }
+    third_party_settings: {  }
+    label: inline
+hidden:
+  attached: true
+  uri: true
+
